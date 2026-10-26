@@ -18,6 +18,24 @@
 | [《刑事诉讼法》](laws/法律/法律/诉讼与非诉讼程序法/zhrmghgxsssf-20181026.md) | [《民事诉讼法》](laws/法律/法律/诉讼与非诉讼程序法/zhrmghgmsssf-20230901.md) | [《行政诉讼法》](laws/法律/法律/诉讼与非诉讼程序法/zhrmghgxzssf-20170627.md) |
 | [《立法法》](laws/法律/法律/宪法相关法/zhrmghglff-20230313.md) | [《劳动合同法》](laws/法律/法律/社会法/zhrmghgldhtf-20121228.md) | [《行政处罚法》](laws/法律/法律/行政法/zhrmghgxzcff-20210122.md) |
 
+## 开发
+
+- Node ≥ 22
+- pnpm
+- pandoc
+- LibreOffice
+- Chromium
+
+```sh
+pnpm install
+pnpm build        # 拉列表 → 增量转换 → 重建映射 → 生成目录与索引
+pnpm typecheck    # 改过脚本后先跑这个
+```
+
+各步也可单独执行：`pnpm get:laws-list`、`pnpm update:laws`、`pnpm build:mapping`、`pnpm build:toc`、`pnpm build:index`。
+
+推送流程：`pnpm build` 确认产物无误 → `git add -A` → `git commit` → `git push origin main`。仓库没有 CI，产物直接提交，所以提交前在本地跑完整流水线。
+
 ## 数据源
 
 - [国家法律法规数据库](https://flk.npc.gov.cn)
