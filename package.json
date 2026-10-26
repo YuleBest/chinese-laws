@@ -1,0 +1,27 @@
+{
+  "name": "chinese-laws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build.ts",
+    "build:toc": "node scripts/build-toc.ts",
+    "get:laws-list": "node scripts/get-laws-list.ts",
+    "update:laws": "node scripts/update-laws.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.15.0",
+      "onFail": "download"
+    }
+  },
+  "packageManager": "pnpm@12.15.0",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "pinyin-pro": "^3.29.5",
+    "typescript": "^5.9.3"
+  }
+}

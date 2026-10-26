@@ -1,0 +1,2943 @@
+[
+    {
+        "directory": ".",
+        "table": [
+            {
+                "original": "README.md",
+                "new": "README.md"
+            }
+        ]
+    },
+    {
+        "directory": "宪法",
+        "table": [
+            {
+                "original": "中华人民共和国宪法修正案（2004年）-20040314.md",
+                "new": "zhrmghgxfxza-2004n-20040314.md"
+            },
+            {
+                "original": "中华人民共和国宪法修正案（2018年）-20180311.md",
+                "new": "zhrmghgxfxza-2018n-20180311.md"
+            },
+            {
+                "original": "中华人民共和国宪法（2018年修正文本）-20180311.md",
+                "new": "zhrmghgxf-2018nxzwb-20180311.md"
+            }
+        ]
+    },
+    {
+        "directory": "法律/修改、废止的决定",
+        "table": [
+            {
+                "original": "全国人民代表大会关于修改《中华人民共和国全国人民代表大会和地方各级人民代表大会代表法》的决定-20250311.md",
+                "new": "qgrmdbdhgyxg-zhrmghgqgrmdbdhhdfgjrmdbdhdbf-djd-20250311.md"
+            },
+            {
+                "original": "全国人民代表大会关于修改《中华人民共和国全国人民代表大会组织法》的决定-20210311.md",
+                "new": "qgrmdbdhgyxg-zhrmghgqgrmdbdhzzf-djd-20210311.md"
+            },
+            {
+                "original": "全国人民代表大会关于修改《中华人民共和国全国人民代表大会议事规则》的决定-20210311.md",
+                "new": "qgrmdbdhgyxg-zhrmghgqgrmdbdhysgz-djd-20210311.md"
+            },
+            {
+                "original": "全国人民代表大会关于修改《中华人民共和国地方各级人民代表大会和地方各级人民政府组织法》的决定-20220311.md",
+                "new": "qgrmdbdhgyxg-zhrmghgdfgjrmdbdhhdfgjrmzfzzf-djd-20220311.md"
+            },
+            {
+                "original": "全国人民代表大会关于修改《中华人民共和国立法法》的决定-20230313.md",
+                "new": "qgrmdbdhgyxg-zhrmghglff-djd-20230313.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国人口与计划生育法》的决定-20210820.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgrkyjhsyf-djd-20210820.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国会计法》的决定-20240628.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgkjf-djd-20240628.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国全国人民代表大会常务委员会议事规则》的决定-20220624.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgqgrmdbdhcwwyhysgz-djd-20220624.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国农业技术推广法》、《中华人民共和国未成年人保护法》、《中华人民共和国生物安全法》的决定-20240426.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgnyjstgf-zhrmghgwcnrbhf-zhrmghgswaqf-djd-20240426.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国反垄断法》的决定-20220624.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgfldf-djd-20220624.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国各级人民代表大会常务委员会监督法》的决定-20241108.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghggjrmdbdhcwwyhjdf-djd-20241108.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国安全生产法》的决定-20210610.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgaqscf-djd-20210610.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国审计法》的决定-20211023.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgsjf-djd-20211023.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国对外贸易法》的决定-20221230.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgdwmyf-djd-20221230.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国工会法》的决定-20211224.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgghf-djd-20211224.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国慈善法》的决定-20231229.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgcsf-djd-20231229.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国教育法》的决定-20210429.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgjyf-djd-20210429.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国村民委员会组织法》的决定-20251028.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgcmwyhzzf-djd-20251028.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国民事诉讼法》的决定-20211224.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgmsssf-djd-20211224.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国民事诉讼法》的决定-20230901.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgmsssf-djd-20230901.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国环境保护税法》的决定-20251028.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghghjbhsf-djd-20251028.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国监察法》的决定-20241225.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgjcf-djd-20241225.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国种子法》的决定-20211224.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgzzf-djd-20211224.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国统计法》的决定-20240913.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgtjf-djd-20240913.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国网络安全法》的决定-20251028.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgwlaqf-djd-20251028.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国道路交通安全法》等八部法律的决定-20210429.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgdljtaqf-dbbfldjd-20210429.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中华人民共和国食品安全法》的决定-20250912.md",
+                "new": "qgrmdbdhcwwyhgyxg-zhrmghgspaqf-djd-20250912.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改《中国人民解放军选举全国人民代表大会和县级以上地方各级人民代表大会代表的办法》的决定-20210429.md",
+                "new": "qgrmdbdhcwwyhgyxg-zgrmjfjxjqgrmdbdhhxjysdfgjrmdbdhdbdbf-djd-20210429.md"
+            }
+        ]
+    },
+    {
+        "directory": "法律/修正案",
+        "table": [
+            {
+                "original": "中华人民共和国刑法修正案-19991225.md",
+                "new": "zhrmghgxfxza-19991225.md"
+            },
+            {
+                "original": "中华人民共和国刑法修正案（七）-20090228.md",
+                "new": "zhrmghgxfxza-q-20090228.md"
+            },
+            {
+                "original": "中华人民共和国刑法修正案（三）-20011229.md",
+                "new": "zhrmghgxfxza-s-20011229.md"
+            },
+            {
+                "original": "中华人民共和国刑法修正案（九）-20150829.md",
+                "new": "zhrmghgxfxza-j-20150829.md"
+            },
+            {
+                "original": "中华人民共和国刑法修正案（二）-20010831.md",
+                "new": "zhrmghgxfxza-e-20010831.md"
+            },
+            {
+                "original": "中华人民共和国刑法修正案（五）-20050228.md",
+                "new": "zhrmghgxfxza-w-20050228.md"
+            },
+            {
+                "original": "中华人民共和国刑法修正案（八）-20110225.md",
+                "new": "zhrmghgxfxza-b-20110225.md"
+            },
+            {
+                "original": "中华人民共和国刑法修正案（六）-20060629.md",
+                "new": "zhrmghgxfxza-l-20060629.md"
+            },
+            {
+                "original": "中华人民共和国刑法修正案（十一）-20201226.md",
+                "new": "zhrmghgxfxza-sy-20201226.md"
+            },
+            {
+                "original": "中华人民共和国刑法修正案（十二）-20231229.md",
+                "new": "zhrmghgxfxza-se-20231229.md"
+            },
+            {
+                "original": "中华人民共和国刑法修正案（十）-20171104.md",
+                "new": "zhrmghgxfxza-s-20171104.md"
+            },
+            {
+                "original": "中华人民共和国刑法修正案（四）-20021228.md",
+                "new": "zhrmghgxfxza-s-20021228.md"
+            }
+        ]
+    },
+    {
+        "directory": "法律/有关法律问题和重大问题的决定（部分）",
+        "table": [
+            {
+                "original": "中华人民共和国全国人民代表大会常务委员会关于批准中华人民共和国政府关于领海声明的决议（附：中华人民共和国政府关于领海的声明）-00000000.md",
+                "new": "zhrmghgqgrmdbdhcwwyhgypzzhrmghgzfgylhsmdjy-f-zhrmghgzfgylhdsm-00000000.md"
+            },
+            {
+                "original": "中华人民共和国澳门特别行政区选举第十三届全国人民代表大会代表的办法-20170315.md",
+                "new": "zhrmghgamtbxzqxjdssjqgrmdbdhdbdbf-20170315.md"
+            },
+            {
+                "original": "中华人民共和国澳门特别行政区选举第十四届全国人民代表大会代表的办法-20220311.md",
+                "new": "zhrmghgamtbxzqxjdssjqgrmdbdhdbdbf-20220311.md"
+            },
+            {
+                "original": "中华人民共和国香港特别行政区选举第十三届全国人民代表大会代表的办法-20170315.md",
+                "new": "zhrmghgxgtbxzqxjdssjqgrmdbdhdbdbf-20170315.md"
+            },
+            {
+                "original": "中华人民共和国香港特别行政区选举第十四届全国人民代表大会代表的办法-20220311.md",
+                "new": "zhrmghgxgtbxzqxjdssjqgrmdbdhdbdbf-20220311.md"
+            },
+            {
+                "original": "全国人大常委会关于延长授权国务院在试点县（市、区）暂时调整实施有关法律规定期限的决定（宣告失效）-20171227.md",
+                "new": "qgrdcwhgyycsqgwyzsdx-s-q-zsdzssygflgdqxdjd-xgsx-20171227.md"
+            },
+            {
+                "original": "全国人大常委会关于批准《澳门基本法附件一行政长官产生办法修正案》的决定-00000000.md",
+                "new": "qgrdcwhgypz-amjbffjyxzzgcsbfxza-djd-00000000.md"
+            },
+            {
+                "original": "全国人大常委会关于批准《香港基本法附件一行政长官产生办法修正案》的决定-00000000.md",
+                "new": "qgrdcwhgypz-xgjbffjyxzzgcsbfxza-djd-00000000.md"
+            },
+            {
+                "original": "全国人大常委会关于授权国务院在自贸试验区暂时调整有关法律规定的行政审批的决定（宣告失效）-20141228.md",
+                "new": "qgrdcwhgysqgwyzzmsyqzsdzygflgddxzspdjd-xgsx-20141228.md"
+            },
+            {
+                "original": "全国人大常委会关于授权国务院在试点县（市、区）暂时调整实施有关法律规定的决定（宣告失效）-20151227.md",
+                "new": "qgrdcwhgysqgwyzsdx-s-q-zsdzssygflgddjd-xgsx-20151227.md"
+            },
+            {
+                "original": "全国人民代表大会关于《中华人民共和国澳门特别行政区基本法》的决定-00000000.md",
+                "new": "qgrmdbdhgy-zhrmghgamtbxzqjbf-djd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会关于《中华人民共和国香港特别行政区基本法》的决定-00000000.md",
+                "new": "qgrmdbdhgy-zhrmghgxgtbxzqjbf-djd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会关于国务院提请审议授权深圳市制定深圳经济特区法规和规章的议案的决定-00000000.md",
+                "new": "qgrmdbdhgygwytqsysqszszdszjjtqfghgzdyadjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会关于完善香港特别行政区选举制度的决定-00000000.md",
+                "new": "qgrmdbdhgywsxgtbxzqxjzddjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会关于建立健全香港特别行政区维护国家安全的法律制度和执行机制的决定-20200528.md",
+                "new": "qgrmdbdhgyjljqxgtbxzqwhgjaqdflzdhzxjzdjd-20200528.md"
+            },
+            {
+                "original": "全国人民代表大会关于批准澳门特别行政区基本法起草委员会关于设立全国人民代表大会常务委员会澳门特别行政区基本法委员会的建议的决定-00000000.md",
+                "new": "qgrmdbdhgypzamtbxzqjbfqcwyhgyslqgrmdbdhcwwyhamtbxzqjbfwyhdjydjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会关于批准香港特别行政区基本法起草委员会关于设立全国人民代表大会常务委员会香港特别行政区基本法委员会的建议的决定-00000000.md",
+                "new": "qgrmdbdhgypzxgtbxzqjbfqcwyhgyslqgrmdbdhcwwyhxgtbxzqjbfwyhdjydjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会关于授权厦门市人民代表大会及其常务委员会和厦门市人民政府分别制定法规和规章在厦门经济特区实施的决定-00000000.md",
+                "new": "qgrmdbdhgysqxmsrmdbdhjqcwwyhhxmsrmzffbzdfghgzzxmjjtqssdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会关于授权国务院在经济体制改革和对外开放方面可以制定暂行的规定或者条例的决定-00000000.md",
+                "new": "qgrmdbdhgysqgwyzjjtzgghdwkffmkyzdzxdgdhztldjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会关于授权汕头市和珠海市人民代表大会及其常务委员会、人民政府分别制定法规和规章在各自的经济特区实施的决定-00000000.md",
+                "new": "qgrmdbdhgysqstshzhsrmdbdhjqcwwyh-rmzffbzdfghgzzgzdjjtqssdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会关于设立中华人民共和国澳门特别行政区的决定-00000000.md",
+                "new": "qgrmdbdhgyslzhrmghgamtbxzqdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会关于设立香港特别行政区的决定-00000000.md",
+                "new": "qgrmdbdhgyslxgtbxzqdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会公告（中华人民共和国澳门特别行政区基本法附件二澳门特别行政区立法会的产生办法修正案）-20120630.md",
+                "new": "qgrmdbdhcwwyhgg-zhrmghgamtbxzqjbffjeamtbxzqlfhdcsbfxza-20120630.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会公告（中华人民共和国香港特别行政区基本法附件二香港特别行政区立法会的产生办法和表决程序修正案）-20100828.md",
+                "new": "qgrmdbdhcwwyhgg-zhrmghgxgtbxzqjbffjexgtbxzqlfhdcsbfhbjcxxza-20100828.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国澳门特别行政区基本法》葡萄牙文本的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgamtbxzqjbf-ptywbdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》英文本的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxgtbxzqjbf-ywbdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》附件三所列全国性法律增减的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxgtbxzqjbf-fjsslqgxflzjdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于专利等知识产权案件诉讼程序若干问题的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyzldzscqajsscxrgwtdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于严惩拐卖、绑架妇女、儿童的犯罪分子的决定（宣告失效）-20090827.md",
+                "new": "qgrmdbdhcwwyhgyycgm-bjfn-etdfzfzdjd-xgsx-20090827.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定（宣告失效）-20090827.md",
+                "new": "qgrmdbdhcwwyhgyyjmypcdjd-xgsx-20090827.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于中华人民共和国建国以来制定的法律、法令效力问题的决议-00000000.md",
+                "new": "qgrmdbdhcwwyhgyzhrmghgjgylzddfl-flxlwtdjy-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于中国人民武装警察部队改革期间暂时调整适用相关法律规定的决定（宣告失效）-20171104.md",
+                "new": "qgrmdbdhcwwyhgyzgrmwzjcbdggqjzsdzsyxgflgddjd-xgsx-20171104.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于中国人民解放军保卫部门对军队内部发生的刑事案件行使公安机关的侦查、拘留、预审和执行逮捕的职权的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyzgrmjfjbwbmdjdnbfsdxsajxsgajgdzc-jl-yshzxdbdzqdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于中国海警局行使海上维权执法职权的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyzghjjxshswqzfzqdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于中国银行业监督管理委员会履行原由中国人民银行履行的监督管理职责的决定（宣告失效）-20030426.md",
+                "new": "qgrmdbdhcwwyhgyzgyhyjdglwyhlxyyzgrmyhlxdjdglzzdjd-xgsx-20030426.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于修改部分法律的决定-20090827.md",
+                "new": "qgrmdbdhcwwyhgyxgbffldjd-20090827.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于全国人民代表大会宪法和法律委员会职责问题的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyqgrmdbdhxfhflwyhzzwtdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于全面加强生态环境保护依法推动打好污染防治攻坚战的决议-00000000.md",
+                "new": "qgrmdbdhcwwyhgyqmjqsthjbhyftddhwrfzgjzdjy-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于全面禁止非法野生动物交易、革除滥食野生动物陋习、切实保障人民群众生命健康安全的决定-20200224.md",
+                "new": "qgrmdbdhcwwyhgyqmjzffysdwjy-gclsysdwlx-qsbzrmqzsmjkaqdjd-20200224.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于军官制度改革期间暂时调整适用相关法律规定的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyjgzdggqjzsdzsyxgflgddjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于军队战时调整适用《中华人民共和国刑事诉讼法》部分规定的决定-20230224.md",
+                "new": "qgrmdbdhcwwyhgyjdzsdzsy-zhrmghgxsssf-bfgddjd-20230224.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于加强中央预算审查监督的决定-19991225.md",
+                "new": "qgrmdbdhcwwyhgyjqzyysscjddjd-19991225.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于加强中央预算审查监督的决定-20210429.md",
+                "new": "qgrmdbdhcwwyhgyjqzyysscjddjd-20210429.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于加强国有资产管理情况监督的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyjqgyzcglqkjddjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于加强法律解释工作的决议-00000000.md",
+                "new": "qgrmdbdhcwwyhgyjqfljsgzdjy-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于加强经济工作监督的决定-20000301.md",
+                "new": "qgrmdbdhcwwyhgyjqjjgzjddjd-20000301.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于加强经济工作监督的决定-20211224.md",
+                "new": "qgrmdbdhcwwyhgyjqjjgzjddjd-20211224.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于加强网络信息保护的决定-20121228.md",
+                "new": "qgrmdbdhcwwyhgyjqwlxxbhdjd-20121228.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于取缔邪教组织、防范和惩治邪教活动的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyqdxjzz-ffhczxjhddjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于司法鉴定管理问题的决定-20150424.md",
+                "new": "qgrmdbdhcwwyhgysfjdglwtdjd-20150424.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于国务院机构改革涉及法律规定的行政机关职责调整问题的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgygwyjgggsjflgddxzjgzztzwtdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于国家安全机关行使公安机关的侦查、拘留、预审和执行逮捕的职权的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgygjaqjgxsgajgdzc-jl-yshzxdbdzqdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于国家监察委员会制定监察法规的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgygjjcwyhzdjcfgdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于在中华人民共和国主席和副主席休假或者外出期间由全国人民代表大会常务委员会委员长接受外国使节的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyzzhrmghgzxhfzxxjhzwcqjyqgrmdbdhcwwyhwyzjswgsjdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于在中华人民共和国成立七十五周年之际授予国家勋章和国家荣誉称号的决定-20240913.md",
+                "new": "qgrmdbdhcwwyhgyzzhrmghgclqswznzjsygjxzhgjrychdjd-20240913.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于在中华人民共和国成立七十周年之际对部分服刑罪犯予以特赦的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyzzhrmghgclqsznzjdbffxzfyytsdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于在全国各地推开国家监察体制改革试点工作的决定（宣告失效）-20171104.md",
+                "new": "qgrmdbdhcwwyhgyzqggdtkgjjctzggsdgzdjd-xgsx-20171104.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于在北京、上海、广州设立知识产权法院的决定-20140831.md",
+                "new": "qgrmdbdhcwwyhgyzbj-sh-gzslzscqfydjd-20140831.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于在北京市、山西省、浙江省开展国家监察体制改革试点工作的决定（宣告失效）-20161225.md",
+                "new": "qgrmdbdhcwwyhgyzbjs-sxs-zjskzgjjctzggsdgzdjd-xgsx-20161225.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于地区和市合并后市人民代表大会提前换届问题的决定（宣告失效）-19830509.md",
+                "new": "qgrmdbdhcwwyhgydqhshbhsrmdbdhtqhjwtdjd-xgsx-19830509.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于增加《中华人民共和国澳门特别行政区基本法》附件三所列全国性法律的决定（1999）-00000000.md",
+                "new": "qgrmdbdhcwwyhgyzj-zhrmghgamtbxzqjbf-fjsslqgxfldjd-1999-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于增加《中华人民共和国澳门特别行政区基本法》附件三所列全国性法律的决定（2005）-00000000.md",
+                "new": "qgrmdbdhcwwyhgyzj-zhrmghgamtbxzqjbf-fjsslqgxfldjd-2005-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于增加《中华人民共和国澳门特别行政区基本法》附件三所列全国性法律的决定（2017）-00000000.md",
+                "new": "qgrmdbdhcwwyhgyzj-zhrmghgamtbxzqjbf-fjsslqgxfldjd-2017-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于增加《中华人民共和国香港特别行政区基本法》附件三所列全国性法律的决定（1998）-00000000.md",
+                "new": "qgrmdbdhcwwyhgyzj-zhrmghgxgtbxzqjbf-fjsslqgxfldjd-1998-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于增加《中华人民共和国香港特别行政区基本法》附件三所列全国性法律的决定（2005）-00000000.md",
+                "new": "qgrmdbdhcwwyhgyzj-zhrmghgxgtbxzqjbf-fjsslqgxfldjd-2005-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于增加《中华人民共和国香港特别行政区基本法》附件三所列全国性法律的决定（2017）-00000000.md",
+                "new": "qgrmdbdhcwwyhgyzj-zhrmghgxgtbxzqjbf-fjsslqgxfldjd-2017-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于增加《中华人民共和国香港特别行政区基本法》附件三所列全国性法律的决定（2020）-00000000.md",
+                "new": "qgrmdbdhcwwyhgyzj-zhrmghgxgtbxzqjbf-fjsslqgxfldjd-2020-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于完善人民陪审员制度的决定-20040828.md",
+                "new": "qgrmdbdhcwwyhgywsrmpsyzddjd-20040828.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于完善和加强备案审查制度的决定-20231229.md",
+                "new": "qgrmdbdhcwwyhgywshjqbasczddjd-20231229.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于实施渐进式延迟法定退休年龄的决定-20240913.md",
+                "new": "qgrmdbdhcwwyhgyssjjsycfdtxnldjd-20240913.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于实行宪法宣誓制度的决定-20180224.md",
+                "new": "qgrmdbdhcwwyhgysxxfxszddjd-20180224.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于废止《中华人民共和国农业税条例》的决定-20051229.md",
+                "new": "qgrmdbdhcwwyhgyfz-zhrmghgnystl-djd-20051229.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于废止有关劳动教养法律规定的决定-20131228.md",
+                "new": "qgrmdbdhcwwyhgyfzygldjyflgddjd-20131228.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于废止有关收容教育法律规定和制度的决定-20191228.md",
+                "new": "qgrmdbdhcwwyhgyfzygsrjyflgdhzddjd-20191228.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于废止部分法律的决定-20090627.md",
+                "new": "qgrmdbdhcwwyhgyfzbffldjd-20090627.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于延长人民陪审员制度改革试点期限的决定（宣告失效）-20170427.md",
+                "new": "qgrmdbdhcwwyhgyycrmpsyzdggsdqxdjd-xgsx-20170427.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于延长授权国务院在北京市大兴区等三十三个试点县（市、区）行政区域暂时调整实施有关法律规定期限的决定（宣告失效）-20171104.md",
+                "new": "qgrmdbdhcwwyhgyycsqgwyzbjsdxqdsssgsdx-s-q-xzqyzsdzssygflgdqxdjd-xgsx-20171104.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于延长授权国务院在北京市大兴区等三十三个试点县（市、区）行政区域暂时调整实施有关法律规定期限的决定（宣告失效）-20181229.md",
+                "new": "qgrmdbdhcwwyhgyycsqgwyzbjsdxqdsssgsdx-s-q-xzqyzsdzssygflgdqxdjd-xgsx-20181229.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于延长授权国务院在实施股票发行注册制改革中调整适用《中华人民共和国证券法》有关规定期限的决定（宣告失效）-20180224.md",
+                "new": "qgrmdbdhcwwyhgyycsqgwyzssgpfxzczggztzsy-zhrmghgzqf-yggdqxdjd-xgsx-20180224.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于延长授权国务院在粤港澳大湾区内地九市开展香港法律执业者和澳门执业律师取得内地执业资质和从事律师职业试点工作期限的决定-20230901.md",
+                "new": "qgrmdbdhcwwyhgyycsqgwyzygadwqndjskzxgflzyzhamzylsqdndzyzzhcslszysdgzqxdjd-20230901.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于延长授权国务院在营商环境创新试点城市暂时调整适用《中华人民共和国计量法》有关规定期限的决定-20241108.md",
+                "new": "qgrmdbdhcwwyhgyycsqgwyzyshjcxsdcszsdzsy-zhrmghgjlf-yggdqxdjd-20241108.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于延长授权国务院在部分地方开展药品上市许可持有人制度试点期限的决定（宣告失效）-20181026.md",
+                "new": "qgrmdbdhcwwyhgyycsqgwyzbfdfkzypssxkcyrzdsdqxdjd-xgsx-20181026.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于开展第七个五年法治宣传教育的决议（宣告失效）-20160428.md",
+                "new": "qgrmdbdhcwwyhgykzdqgwnfzxcjydjy-xgsx-20160428.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于开展第八个五年法治宣传教育的决议（宣告失效）-20210610.md",
+                "new": "qgrmdbdhcwwyhgykzdbgwnfzxcjydjy-xgsx-20210610.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于惩治破坏金融秩序犯罪的决定（宣告失效）-19950630.md",
+                "new": "qgrmdbdhcwwyhgyczphjrzxfzdjd-xgsx-19950630.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于惩治虚开、伪造和非法出售增值税专用发票犯罪的决定（宣告失效）-19951030.md",
+                "new": "qgrmdbdhcwwyhgyczxk-wzhffcszzszyfpfzdjd-xgsx-19951030.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于惩治走私、制作、贩卖、传播淫秽物品的犯罪分子的决定（宣告失效）-20090827.md",
+                "new": "qgrmdbdhcwwyhgyczzs-zz-fm-cbyhwpdfzfzdjd-xgsx-20090827.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于成立辽宁省第十二届人民代表大会第七次会议筹备组的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgycllnsdsejrmdbdhdqchycbzdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于我国加入世界贸易组织的决定-20011109.md",
+                "new": "qgrmdbdhcwwyhgywgjrsjmyzzdjd-20011109.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于批准《全国人民代表大会常务委员会法制工作委员会关于法律清理工作情况和处理意见的报告》的决定-20251227.md",
+                "new": "qgrmdbdhcwwyhgypz-qgrmdbdhcwwyhfzgzwyhgyflqlgzqkhclyjdbg-djd-20251227.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于批准《内地与香港特别行政区关于在广深港高铁西九龙站设立口岸实施“一地两检”的合作安排》的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgypz-ndyxgtbxzqgyzgsggtxjlzslkass-ydlj-dhzap-djd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于批准武汉、九江、芜湖港对外国籍船舶开放的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgypzwh-jj-whgdwgjcbkfdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于批准法制工作委员会关于对1978年底以前颁布的法律进行清理的情况和意见的报告的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgypzfzgzwyhgyd1978ndyqbbdfljxqldqkhyjdbgdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于批准长江南京港对外国籍船舶开放的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgypzcjnjgdwgjcbkfdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于批准长江南通港、张家港对外国籍船舶开放的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgypzcjntg-zjgdwgjcbkfdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授予国家勋章和国家荣誉称号的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgysygjxzhgjrychdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授予在抗击新冠肺炎疫情斗争中作出杰出贡献的人士国家勋章和国家荣誉称号的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgysyzkjxgfyyqdzzzcjcgxdrsgjxzhgjrychdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权上海市人民代表大会及其常务委员会制定浦东新区法规的决定-20210610.md",
+                "new": "qgrmdbdhcwwyhgysqshsrmdbdhjqcwwyhzdpdxqfgdjd-20210610.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在中国（上海）自由贸易试验区暂时调整有关法律规定的行政审批的决定（宣告失效）-20130830.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzzg-sh-zymysyqzsdzygflgddxzspdjd-xgsx-20130830.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在中国（新疆）自由贸易试验区暂时调整适用《中华人民共和国种子法》有关规定的决定-20250430.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzzg-xj-zymysyqzsdzsy-zhrmghgzzf-yggddjd-20250430.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在中国（海南）自由贸易试验区暂时调整适用有关法律规定的决定（宣告失效）-20200429.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzzg-hn-zymysyqzsdzsyygflgddjd-xgsx-20200429.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在北京市大兴区等三十三个试点县（市、区）行政区域暂时调整实施有关法律规定的决定（宣告失效）-20150227.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzbjsdxqdsssgsdx-s-q-xzqyzsdzssygflgddjd-xgsx-20150227.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在实施股票发行注册制改革中调整适用《中华人民共和国证券法》有关规定的决定（宣告失效）-20151227.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzssgpfxzczggztzsy-zhrmghgzqf-yggddjd-xgsx-20151227.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在广东省暂时调整部分法律规定的行政审批的决定（宣告失效）-20121228.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzgdszsdzbfflgddxzspdjd-xgsx-20121228.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在广东省暂时调整部分法律规定的行政审批试行期届满后有关问题的决定（宣告失效）-20151227.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzgdszsdzbfflgddxzspsxqjmhygwtdjd-xgsx-20151227.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在河北省邯郸市等十二个试点城市行政区域暂时调整适用《中华人民共和国社会保险法》有关规定的决定（宣告失效）-20161225.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzhbshdsdsegsdcsxzqyzsdzsy-zhrmghgshbxf-yggddjd-xgsx-20161225.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在海南自由贸易港暂时调整适用《中华人民共和国食品安全法》有关规定的决定-20240628.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzhnzymygzsdzsy-zhrmghgspaqf-yggddjd-20240628.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在粤港澳大湾区内地九市开展香港法律执业者和澳门执业律师取得内地执业资质和从事律师职业试点工作的决定-20200811.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzygadwqndjskzxgflzyzhamzylsqdndzyzzhcslszysdgzdjd-20200811.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在自由贸易试验区暂时调整适用有关法律规定的决定（宣告失效）-20191026.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzzymysyqzsdzsyygflgddjd-xgsx-20191026.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在自由贸易试验区暂时调整适用有关法律规定的决定（宣告失效）-20210429.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzzymysyqzsdzsyygflgddjd-xgsx-20210429.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在营商环境创新试点城市暂时调整适用《中华人民共和国计量法》有关规定的决定（宣告失效）-20211023.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzyshjcxsdcszsdzsy-zhrmghgjlf-yggddjd-xgsx-20211023.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在部分地区和部分在京中央机关暂时调整适用《中华人民共和国公务员法》有关规定的决定（宣告失效）-20161225.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzbfdqhbfzjzyjgzsdzsy-zhrmghggwyf-yggddjd-xgsx-20161225.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在部分地区开展房地产税改革试点工作的决定-20211023.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzbfdqkzfdcsggsdgzdjd-20211023.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院在部分地方开展药品上市许可持有人制度试点和有关问题的决定（宣告失效）-20151104.md",
+                "new": "qgrmdbdhcwwyhgysqgwyzbfdfkzypssxkcyrzdsdhygwtdjd-xgsx-20151104.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院对职工退休退职办法进行部分修改和补充的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgysqgwydzgtxtzbfjxbfxghbcdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权国务院提前下达部分新增地方政府债务限额的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgysqgwytqxdbfxzdfzfzwxedjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权在部分地区开展人民陪审员制度改革试点工作的决定（宣告失效）-20150424.md",
+                "new": "qgrmdbdhcwwyhgysqzbfdqkzrmpsyzdggsdgzdjd-xgsx-20150424.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权广东省、福建省人民代表大会及其常务委员会制定所属经济特区的各项单行经济法规的决议-00000000.md",
+                "new": "qgrmdbdhcwwyhgysqgds-fjsrmdbdhjqcwwyhzdssjjtqdgxdxjjfgdjy-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权最高人民检察院在部分地区开展公益诉讼试点工作的决定（宣告失效）-20150701.md",
+                "new": "qgrmdbdhcwwyhgysqzgrmjcyzbfdqkzgysssdgzdjd-xgsx-20150701.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权最高人民法院、最高人民检察院在部分地区开展刑事案件认罪认罚从宽制度试点工作的决定（宣告失效）-20160903.md",
+                "new": "qgrmdbdhcwwyhgysqzgrmfy-zgrmjcyzbfdqkzxsajrzrfckzdsdgzdjd-xgsx-20160903.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权最高人民法院、最高人民检察院在部分地区开展刑事案件速裁程序试点工作的决定（宣告失效）-20140627.md",
+                "new": "qgrmdbdhcwwyhgysqzgrmfy-zgrmjcyzbfdqkzxsajsccxsdgzdjd-xgsx-20140627.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权最高人民法院在部分地区开展民事诉讼程序繁简分流改革试点工作的决定（宣告失效）-20191228.md",
+                "new": "qgrmdbdhcwwyhgysqzgrmfyzbfdqkzmssscxfjflggsdgzdjd-xgsx-20191228.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权最高人民法院组织开展四级法院审级职能定位改革试点工作的决定（宣告失效）-20210820.md",
+                "new": "qgrmdbdhcwwyhgysqzgrmfyzzkzsjfysjzndwggsdgzdjd-xgsx-20210820.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权深圳市人民代表大会及其常务委员会和深圳市人民政府分别制定法规和规章在深圳经济特区实施的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgysqszsrmdbdhjqcwwyhhszsrmzffbzdfghgzzszjjtqssdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权澳门特别行政区对广东省珠海市拱北口岸东南侧相关陆地和海域实施管辖的决定-20231229.md",
+                "new": "qgrmdbdhcwwyhgysqamtbxzqdgdszhsgbkadncxgldhhyssgxdjd-20231229.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权澳门特别行政区对横琴口岸澳方口岸区及相关延伸区实施管辖的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgysqamtbxzqdhqkaafkaqjxgysqssgxdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权澳门特别行政区对设在横琴岛的澳门大学新校区实施管辖的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgysqamtbxzqdszhqddamdxxxqssgxdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于授权香港特别行政区对深圳湾口岸港方口岸区实施管辖的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgysqxgtbxzqdszwkagfkaqssgxdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于推迟召开第十三届全国人民代表大会第三次会议的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgytczkdssjqgrmdbdhdschydjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于教师节的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyjsjdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于新疆维吾尔自治区生产建设兵团设置人民法院和人民检察院的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyxjwwezzqscjsbtszrmfyhrmjcydjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于根据《中华人民共和国澳门特别行政区基本法》第一百四十五条处理澳门原有法律的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgygj-zhrmghgamtbxzqjbf-dybsswtclamyyfldjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于根据《中华人民共和国香港特别行政区基本法》第一百六十条处理香港原有法律的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgygj-zhrmghgxgtbxzqjbf-dyblstclxgyyfldjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于深化国防动员体制改革期间暂时调整适用相关法律规定的决定-20211023.md",
+                "new": "qgrmdbdhcwwyhgyshgfdytzggqjzsdzsyxgflgddjd-20211023.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于澳门特别行政区2013年立法会产生办法和2014年行政长官产生办法有关问题的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyamtbxzq2013nlfhcsbfh2014nxzzgcsbfygwtdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于特赦部分服刑罪犯的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgytsbffxzfdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于省、自治区、直辖市人民代表大会代表名额的决定（宣告失效）-19970509.md",
+                "new": "qgrmdbdhcwwyhgys-zzq-zxsrmdbdhdbmedjd-xgsx-19970509.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于确定中国人民抗日战争胜利纪念日的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyqdzgrmkrzzsljnrdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于确认1955年至1965年期间授予的军官军衔的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyqr1955nz1965nqjsydjgjxdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于第十三届全国人民代表大会第三次会议召开时间的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgydssjqgrmdbdhdschyzksjdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于维护互联网安全的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgywhhlwaqdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于设立上海金融法院的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyslshjrfydjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于设立全国人民代表大会常务委员会代表工作委员会的决定-20230628.md",
+                "new": "qgrmdbdhcwwyhgyslqgrmdbdhcwwyhdbgzwyhdjd-20230628.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于设立全国生态日的决定-20230628.md",
+                "new": "qgrmdbdhcwwyhgyslqgstrdjd-20230628.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于设立全民国防教育日的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyslqmgfjyrdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于设立北京金融法院的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyslbjjrfydjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于设立南京大屠杀死难者国家公祭日的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyslnjdtssnzgjgjrdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于设立台湾光复纪念日的决定-20251024.md",
+                "new": "qgrmdbdhcwwyhgysltwgfjnrdjd-20251024.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于设立国家宪法日的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyslgjxfrdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于设立成渝金融法院的决定-20220228.md",
+                "new": "qgrmdbdhcwwyhgyslcyjrfydjd-20220228.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于设立海南自由贸易港知识产权法院的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyslhnzymygzscqfydjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于设立烈士纪念日的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgysllsjnrdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于调整完善生育政策的决议（宣告失效）-20131228.md",
+                "new": "qgrmdbdhcwwyhgytzwssyzcdjy-xgsx-20131228.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于香港特别行政区2007年行政长官和2008年立法会产生办法有关问题的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyxgtbxzq2007nxzzgh2008nlfhcsbfygwtdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于香港特别行政区2012年行政长官和立法会产生办法及有关普选问题的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyxgtbxzq2012nxzzghlfhcsbfjygpxwtdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于香港特别行政区立法会议员资格问题的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyxgtbxzqlfhyyzgwtdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于香港特别行政区第六届立法会继续履行职责的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyxgtbxzqdljlfhjxlxzzdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于香港特别行政区行政长官普选问题和2016年立法会产生办法的决定-00000000.md",
+                "new": "qgrmdbdhcwwyhgyxgtbxzqxzzgpxwth2016nlfhcsbfdjd-00000000.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会组成人员守则-19930702.md",
+                "new": "qgrmdbdhcwwyhzcrysz-19930702.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会组成人员守则-20230426.md",
+                "new": "qgrmdbdhcwwyhzcrysz-20230426.md"
+            },
+            {
+                "original": "关于中华人民共和国国庆日的决议-00000000.md",
+                "new": "gyzhrmghggqrdjy-00000000.md"
+            },
+            {
+                "original": "关于中华人民共和国国都、纪年、国歌、国旗的决议-00000000.md",
+                "new": "gyzhrmghggd-jn-gg-gqdjy-00000000.md"
+            },
+            {
+                "original": "台湾省出席第十三届全国人民代表大会代表协商选举方案（宣告失效）-20170427.md",
+                "new": "twscxdssjqgrmdbdhdbxsxjfa-xgsx-20170427.md"
+            },
+            {
+                "original": "台湾省出席第十四届全国人民代表大会代表协商选举方案-20220420.md",
+                "new": "twscxdssjqgrmdbdhdbxsxjfa-20220420.md"
+            },
+            {
+                "original": "第七届全国人民代表大会第一次会议关于建立海南经济特区的决议-00000000.md",
+                "new": "dqjqgrmdbdhdychygyjlhnjjtqdjy-00000000.md"
+            },
+            {
+                "original": "第七届全国人民代表大会第一次会议关于设立海南省的决定-00000000.md",
+                "new": "dqjqgrmdbdhdychygyslhnsdjd-00000000.md"
+            },
+            {
+                "original": "第五届全国人民代表大会第四次会议关于开展全民义务植树运动的决议-00000000.md",
+                "new": "dwjqgrmdbdhdschygykzqmywzsyddjy-00000000.md"
+            },
+            {
+                "original": "第八届全国人民代表大会第五次会议关于批准设立重庆直辖市的决定-00000000.md",
+                "new": "dbjqgrmdbdhdwchygypzslcqzxsdjd-00000000.md"
+            },
+            {
+                "original": "第十三届全国人民代表大会代表名额分配方案（宣告失效）-20170427.md",
+                "new": "dssjqgrmdbdhdbmefpfa-xgsx-20170427.md"
+            },
+            {
+                "original": "第十三届全国人民代表大会少数民族代表名额分配方案（宣告失效）-20170427.md",
+                "new": "dssjqgrmdbdhssmzdbmefpfa-xgsx-20170427.md"
+            },
+            {
+                "original": "第十三届全国人民代表大会第一次会议关于国务院机构改革方案的决定（附：国务院机构改革方案）-00000000.md",
+                "new": "dssjqgrmdbdhdychygygwyjgggfadjd-f-gwyjgggfa-00000000.md"
+            },
+            {
+                "original": "第十三届全国人民代表大会第一次会议关于第十三届全国人民代表大会专门委员会主任委员、副主任委员、委员人选的表决办法-00000000.md",
+                "new": "dssjqgrmdbdhdychygydssjqgrmdbdhzmwyhzrwy-fzrwy-wyrxdbjbf-00000000.md"
+            },
+            {
+                "original": "第十三届全国人民代表大会第一次会议关于设立第十三届全国人民代表大会专门委员会的决定-00000000.md",
+                "new": "dssjqgrmdbdhdychygysldssjqgrmdbdhzmwyhdjd-00000000.md"
+            },
+            {
+                "original": "第十三届全国人民代表大会第一次会议选举和决定任命的办法-00000000.md",
+                "new": "dssjqgrmdbdhdychyxjhjdrmdbf-00000000.md"
+            },
+            {
+                "original": "第十三届全国人民代表大会第五次会议关于第十四届全国人民代表大会代表名额和选举问题的决定-20220311.md",
+                "new": "dssjqgrmdbdhdwchygydssjqgrmdbdhdbmehxjwtdjd-20220311.md"
+            },
+            {
+                "original": "第十二届全国人民代表大会第五次会议关于第十三届全国人民代表大会代表名额和选举问题的决定-00000000.md",
+                "new": "dsejqgrmdbdhdwchygydssjqgrmdbdhdbmehxjwtdjd-00000000.md"
+            },
+            {
+                "original": "第十四届全国人民代表大会代表名额分配方案-20220420.md",
+                "new": "dssjqgrmdbdhdbmefpfa-20220420.md"
+            },
+            {
+                "original": "第十四届全国人民代表大会少数民族代表名额分配方案-20220420.md",
+                "new": "dssjqgrmdbdhssmzdbmefpfa-20220420.md"
+            },
+            {
+                "original": "第十四届全国人民代表大会常务委员会关于授权国务院提前下达部分新增地方政府债务限额的决定-20231024.md",
+                "new": "dssjqgrmdbdhcwwyhgysqgwytqxdbfxzdfzfzwxedjd-20231024.md"
+            },
+            {
+                "original": "第十四届全国人民代表大会第一次会议关于国务院机构改革方案的决定（附：国务院机构改革方案）-20230310.md",
+                "new": "dssjqgrmdbdhdychygygwyjgggfadjd-f-gwyjgggfa-20230310.md"
+            },
+            {
+                "original": "第十四届全国人民代表大会第一次会议关于第十四届全国人民代表大会专门委员会主任委员、副主任委员、委员人选的表决办法-20230305.md",
+                "new": "dssjqgrmdbdhdychygydssjqgrmdbdhzmwyhzrwy-fzrwy-wyrxdbjbf-20230305.md"
+            },
+            {
+                "original": "第十四届全国人民代表大会第一次会议关于设立第十四届全国人民代表大会专门委员会的决定-20230305.md",
+                "new": "dssjqgrmdbdhdychygysldssjqgrmdbdhzmwyhdjd-20230305.md"
+            },
+            {
+                "original": "第十四届全国人民代表大会第一次会议选举和决定任命的办法-20230310.md",
+                "new": "dssjqgrmdbdhdychyxjhjdrmdbf-20230310.md"
+            }
+        ]
+    },
+    {
+        "directory": "法律/法律/刑法",
+        "table": [
+            {
+                "original": "中华人民共和国刑法-20090827.md",
+                "new": "zhrmghgxf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国刑法-20201226.md",
+                "new": "zhrmghgxf-20201226.md"
+            },
+            {
+                "original": "中华人民共和国反有组织犯罪法-20211224.md",
+                "new": "zhrmghgfyzzfzf-20211224.md"
+            },
+            {
+                "original": "中华人民共和国反电信网络诈骗法-20220902.md",
+                "new": "zhrmghgfdxwlzpf-20220902.md"
+            },
+            {
+                "original": "中华人民共和国反间谍法-20141101.md",
+                "new": "zhrmghgfjdf-20141101.md"
+            },
+            {
+                "original": "中华人民共和国反间谍法-20230426.md",
+                "new": "zhrmghgfjdf-20230426.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于惩治骗购外汇、逃汇和非法买卖外汇犯罪的决定-19981229.md",
+                "new": "qgrmdbdhcwwyhgyczpgwh-thhffmmwhfzdjd-19981229.md"
+            }
+        ]
+    },
+    {
+        "directory": "法律/法律/宪法相关法",
+        "table": [
+            {
+                "original": "中华人民共和国专属经济区和大陆架法-19980626.md",
+                "new": "zhrmghgzsjjqhdljf-19980626.md"
+            },
+            {
+                "original": "中华人民共和国人民检察院组织法-20181026.md",
+                "new": "zhrmghgrmjcyzzf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国人民法院组织法-20061031.md",
+                "new": "zhrmghgrmfyzzf-20061031.md"
+            },
+            {
+                "original": "中华人民共和国人民法院组织法-20181026.md",
+                "new": "zhrmghgrmfyzzf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国人民陪审员法-20180427.md",
+                "new": "zhrmghgrmpsyf-20180427.md"
+            },
+            {
+                "original": "中华人民共和国全国人民代表大会和地方各级人民代表大会代表法-20150829.md",
+                "new": "zhrmghgqgrmdbdhhdfgjrmdbdhdbf-20150829.md"
+            },
+            {
+                "original": "中华人民共和国全国人民代表大会和地方各级人民代表大会代表法-20250311.md",
+                "new": "zhrmghgqgrmdbdhhdfgjrmdbdhdbf-20250311.md"
+            },
+            {
+                "original": "中华人民共和国全国人民代表大会和地方各级人民代表大会选举法-20150829.md",
+                "new": "zhrmghgqgrmdbdhhdfgjrmdbdhxjf-20150829.md"
+            },
+            {
+                "original": "中华人民共和国全国人民代表大会和地方各级人民代表大会选举法-20201017.md",
+                "new": "zhrmghgqgrmdbdhhdfgjrmdbdhxjf-20201017.md"
+            },
+            {
+                "original": "中华人民共和国全国人民代表大会常务委员会议事规则-20090424.md",
+                "new": "zhrmghgqgrmdbdhcwwyhysgz-20090424.md"
+            },
+            {
+                "original": "中华人民共和国全国人民代表大会常务委员会议事规则-20220624.md",
+                "new": "zhrmghgqgrmdbdhcwwyhysgz-20220624.md"
+            },
+            {
+                "original": "中华人民共和国全国人民代表大会组织法-19821210.md",
+                "new": "zhrmghgqgrmdbdhzzf-19821210.md"
+            },
+            {
+                "original": "中华人民共和国全国人民代表大会组织法-20210311.md",
+                "new": "zhrmghgqgrmdbdhzzf-20210311.md"
+            },
+            {
+                "original": "中华人民共和国全国人民代表大会议事规则-19890404.md",
+                "new": "zhrmghgqgrmdbdhysgz-19890404.md"
+            },
+            {
+                "original": "中华人民共和国全国人民代表大会议事规则-20210311.md",
+                "new": "zhrmghgqgrmdbdhysgz-20210311.md"
+            },
+            {
+                "original": "中华人民共和国公职人员政务处分法-20200620.md",
+                "new": "zhrmghggzryzwcff-20200620.md"
+            },
+            {
+                "original": "中华人民共和国反外国制裁法-20210610.md",
+                "new": "zhrmghgfwgzcf-20210610.md"
+            },
+            {
+                "original": "中华人民共和国各级人民代表大会常务委员会监督法-20060827.md",
+                "new": "zhrmghggjrmdbdhcwwyhjdf-20060827.md"
+            },
+            {
+                "original": "中华人民共和国各级人民代表大会常务委员会监督法-20241108.md",
+                "new": "zhrmghggjrmdbdhcwwyhjdf-20241108.md"
+            },
+            {
+                "original": "中华人民共和国国务院组织法-19821210.md",
+                "new": "zhrmghggwyzzf-19821210.md"
+            },
+            {
+                "original": "中华人民共和国国务院组织法-20240311.md",
+                "new": "zhrmghggwyzzf-20240311.md"
+            },
+            {
+                "original": "中华人民共和国国家勋章和国家荣誉称号法-20151227.md",
+                "new": "zhrmghggjxzhgjrychf-20151227.md"
+            },
+            {
+                "original": "中华人民共和国国家安全法-20150701.md",
+                "new": "zhrmghggjaqf-20150701.md"
+            },
+            {
+                "original": "中华人民共和国国家赔偿法-20121026.md",
+                "new": "zhrmghggjpcf-20121026.md"
+            },
+            {
+                "original": "中华人民共和国国家通用语言文字法-20251227.md",
+                "new": "zhrmghggjtyyywzf-20251227.md"
+            },
+            {
+                "original": "中华人民共和国国徽法-20090827.md",
+                "new": "zhrmghgghf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国国徽法-20201017.md",
+                "new": "zhrmghgghf-20201017.md"
+            },
+            {
+                "original": "中华人民共和国国旗法-20090827.md",
+                "new": "zhrmghggqf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国国旗法-20201017.md",
+                "new": "zhrmghggqf-20201017.md"
+            },
+            {
+                "original": "中华人民共和国国歌法-20170901.md",
+                "new": "zhrmghgggf-20170901.md"
+            },
+            {
+                "original": "中华人民共和国国籍法-19800910.md",
+                "new": "zhrmghggjf-19800910.md"
+            },
+            {
+                "original": "中华人民共和国国防法-20090827.md",
+                "new": "zhrmghggff-20090827.md"
+            },
+            {
+                "original": "中华人民共和国国防法-20201226.md",
+                "new": "zhrmghggff-20201226.md"
+            },
+            {
+                "original": "中华人民共和国地方各级人民代表大会和地方各级人民政府组织法-20150829.md",
+                "new": "zhrmghgdfgjrmdbdhhdfgjrmzfzzf-20150829.md"
+            },
+            {
+                "original": "中华人民共和国地方各级人民代表大会和地方各级人民政府组织法-20220311.md",
+                "new": "zhrmghgdfgjrmdbdhhdfgjrmzfzzf-20220311.md"
+            },
+            {
+                "original": "中华人民共和国城市居民委员会组织法-19891226.md",
+                "new": "zhrmghgcsjmwyhzzf-19891226.md"
+            },
+            {
+                "original": "中华人民共和国城市居民委员会组织法-20181229.md",
+                "new": "zhrmghgcsjmwyhzzf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国城市居民委员会组织法-20251028.md",
+                "new": "zhrmghgcsjmwyhzzf-20251028.md"
+            },
+            {
+                "original": "中华人民共和国外交特权与豁免条例-19860905.md",
+                "new": "zhrmghgwjtqyhmtl-19860905.md"
+            },
+            {
+                "original": "中华人民共和国外国中央银行财产司法强制措施豁免法-20051025.md",
+                "new": "zhrmghgwgzyyhccsfqzcshmf-20051025.md"
+            },
+            {
+                "original": "中华人民共和国外国国家豁免法-20230901.md",
+                "new": "zhrmghgwggjhmf-20230901.md"
+            },
+            {
+                "original": "中华人民共和国对外关系法-20230628.md",
+                "new": "zhrmghgdwgxf-20230628.md"
+            },
+            {
+                "original": "中华人民共和国戒严法-19960301.md",
+                "new": "zhrmghgjyf-19960301.md"
+            },
+            {
+                "original": "中华人民共和国村民委员会组织法-20101028.md",
+                "new": "zhrmghgcmwyhzzf-20101028.md"
+            },
+            {
+                "original": "中华人民共和国村民委员会组织法-20181229.md",
+                "new": "zhrmghgcmwyhzzf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国村民委员会组织法-20251028.md",
+                "new": "zhrmghgcmwyhzzf-20251028.md"
+            },
+            {
+                "original": "中华人民共和国检察官法-20170901.md",
+                "new": "zhrmghgjcgf-20170901.md"
+            },
+            {
+                "original": "中华人民共和国检察官法-20190423.md",
+                "new": "zhrmghgjcgf-20190423.md"
+            },
+            {
+                "original": "中华人民共和国民族区域自治法-20010228.md",
+                "new": "zhrmghgmzqyzzf-20010228.md"
+            },
+            {
+                "original": "中华人民共和国法官法-20170901.md",
+                "new": "zhrmghgfgf-20170901.md"
+            },
+            {
+                "original": "中华人民共和国法官法-20190423.md",
+                "new": "zhrmghgfgf-20190423.md"
+            },
+            {
+                "original": "中华人民共和国法治宣传教育法-20250912.md",
+                "new": "zhrmghgfzxcjyf-20250912.md"
+            },
+            {
+                "original": "中华人民共和国澳门特别行政区基本法-19930331.md",
+                "new": "zhrmghgamtbxzqjbf-19930331.md"
+            },
+            {
+                "original": "中华人民共和国澳门特别行政区驻军法-19990628.md",
+                "new": "zhrmghgamtbxzqzjf-19990628.md"
+            },
+            {
+                "original": "中华人民共和国爱国主义教育法-20231024.md",
+                "new": "zhrmghgagzyjyf-20231024.md"
+            },
+            {
+                "original": "中华人民共和国监察官法-20210820.md",
+                "new": "zhrmghgjcgf-20210820.md"
+            },
+            {
+                "original": "中华人民共和国监察法-20180320.md",
+                "new": "zhrmghgjcf-20180320.md"
+            },
+            {
+                "original": "中华人民共和国监察法-20241225.md",
+                "new": "zhrmghgjcf-20241225.md"
+            },
+            {
+                "original": "中华人民共和国立法法-20150315.md",
+                "new": "zhrmghglff-20150315.md"
+            },
+            {
+                "original": "中华人民共和国立法法-20230313.md",
+                "new": "zhrmghglff-20230313.md"
+            },
+            {
+                "original": "中华人民共和国缔结条约程序法-19901228.md",
+                "new": "zhrmghgdjtycxf-19901228.md"
+            },
+            {
+                "original": "中华人民共和国英雄烈士保护法-20180427.md",
+                "new": "zhrmghgyxlsbhf-20180427.md"
+            },
+            {
+                "original": "中华人民共和国陆地国界法-20211023.md",
+                "new": "zhrmghgldgjf-20211023.md"
+            },
+            {
+                "original": "中华人民共和国集会游行示威法-20090827.md",
+                "new": "zhrmghgjhyxswf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国领事特权与豁免条例-19901030.md",
+                "new": "zhrmghglstqyhmtl-19901030.md"
+            },
+            {
+                "original": "中华人民共和国领海及毗连区法-19920225.md",
+                "new": "zhrmghglhjplqf-19920225.md"
+            },
+            {
+                "original": "中华人民共和国香港特别行政区基本法-19900404.md",
+                "new": "zhrmghgxgtbxzqjbf-19900404.md"
+            },
+            {
+                "original": "中华人民共和国香港特别行政区维护国家安全法-20200630.md",
+                "new": "zhrmghgxgtbxzqwhgjaqf-20200630.md"
+            },
+            {
+                "original": "中华人民共和国香港特别行政区驻军法-19961230.md",
+                "new": "zhrmghgxgtbxzqzjf-19961230.md"
+            },
+            {
+                "original": "中国人民解放军选举全国人民代表大会和县级以上地方各级人民代表大会代表的办法-20120630.md",
+                "new": "zgrmjfjxjqgrmdbdhhxjysdfgjrmdbdhdbdbf-20120630.md"
+            },
+            {
+                "original": "中国人民解放军选举全国人民代表大会和县级以上地方各级人民代表大会代表的办法-20210429.md",
+                "new": "zgrmjfjxjqgrmdbdhhxjysdfgjrmdbdhdbdbf-20210429.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于县级以下人民代表大会代表直接选举的若干规定-19830305.md",
+                "new": "qgrmdbdhcwwyhgyxjyxrmdbdhdbzjxjdrggd-19830305.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于在沿海港口城市设立海事法院的决定-19841114.md",
+                "new": "qgrmdbdhcwwyhgyzyhgkcsslhsfydjd-19841114.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于批准中央军事委员会《关于授予军队离休干部中国人民解放军功勋荣誉章的规定》的决定-19880701.md",
+                "new": "qgrmdbdhcwwyhgypzzyjswyh-gysyjdlxgbzgrmjfjgxryzdgd-djd-19880701.md"
+            },
+            {
+                "original": "反分裂国家法-20050314.md",
+                "new": "fflgjf-20050314.md"
+            }
+        ]
+    },
+    {
+        "directory": "法律/法律/民法商法",
+        "table": [
+            {
+                "original": "中华人民共和国专利法-20081227.md",
+                "new": "zhrmghgzlf-20081227.md"
+            },
+            {
+                "original": "中华人民共和国专利法-20201017.md",
+                "new": "zhrmghgzlf-20201017.md"
+            },
+            {
+                "original": "中华人民共和国个人独资企业法-19990830.md",
+                "new": "zhrmghggrdzqyf-19990830.md"
+            },
+            {
+                "original": "中华人民共和国中外合作经营企业法-20171104.md",
+                "new": "zhrmghgzwhzjyqyf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国中外合资经营企业法-20160903.md",
+                "new": "zhrmghgzwhzjyqyf-20160903.md"
+            },
+            {
+                "original": "中华人民共和国企业破产法-20060827.md",
+                "new": "zhrmghgqypcf-20060827.md"
+            },
+            {
+                "original": "中华人民共和国侵权责任法-20091226.md",
+                "new": "zhrmghgqqzrf-20091226.md"
+            },
+            {
+                "original": "中华人民共和国保险法-20150424.md",
+                "new": "zhrmghgbxf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国信托法-20010428.md",
+                "new": "zhrmghgxtf-20010428.md"
+            },
+            {
+                "original": "中华人民共和国全民所有制工业企业法-20090827.md",
+                "new": "zhrmghgqmsyzgyqyf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国公司法-20131228.md",
+                "new": "zhrmghggsf-20131228.md"
+            },
+            {
+                "original": "中华人民共和国公司法-20181026.md",
+                "new": "zhrmghggsf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国公司法-20231229.md",
+                "new": "zhrmghggsf-20231229.md"
+            },
+            {
+                "original": "中华人民共和国农村土地承包法-20090827.md",
+                "new": "zhrmghgnctdcbf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国农村土地承包法-20181229.md",
+                "new": "zhrmghgnctdcbf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国农村集体经济组织法-20240628.md",
+                "new": "zhrmghgncjtjjzzf-20240628.md"
+            },
+            {
+                "original": "中华人民共和国农民专业合作社法-20171227.md",
+                "new": "zhrmghgnmzyhzsf-20171227.md"
+            },
+            {
+                "original": "中华人民共和国合伙企业法-20060827.md",
+                "new": "zhrmghghhqyf-20060827.md"
+            },
+            {
+                "original": "中华人民共和国合同法-19990315.md",
+                "new": "zhrmghghtf-19990315.md"
+            },
+            {
+                "original": "中华人民共和国商业银行法-20150829.md",
+                "new": "zhrmghgsyyhf-20150829.md"
+            },
+            {
+                "original": "中华人民共和国商标法-20130830.md",
+                "new": "zhrmghgsbf-20130830.md"
+            },
+            {
+                "original": "中华人民共和国商标法-20190423.md",
+                "new": "zhrmghgsbf-20190423.md"
+            },
+            {
+                "original": "中华人民共和国外资企业法-20160903.md",
+                "new": "zhrmghgwzqyf-20160903.md"
+            },
+            {
+                "original": "中华人民共和国婚姻法-20010428.md",
+                "new": "zhrmghghyf-20010428.md"
+            },
+            {
+                "original": "中华人民共和国担保法-19950630.md",
+                "new": "zhrmghgdbf-19950630.md"
+            },
+            {
+                "original": "中华人民共和国拍卖法-20150424.md",
+                "new": "zhrmghgpmf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国招标投标法-20171227.md",
+                "new": "zhrmghgzbtbf-20171227.md"
+            },
+            {
+                "original": "中华人民共和国收养法-19981104.md",
+                "new": "zhrmghgsyf-19981104.md"
+            },
+            {
+                "original": "中华人民共和国期货和衍生品法-20220420.md",
+                "new": "zhrmghgqhhyspf-20220420.md"
+            },
+            {
+                "original": "中华人民共和国民法典-20200528.md",
+                "new": "zhrmghgmfd-20200528.md"
+            },
+            {
+                "original": "中华人民共和国民法总则-20170315.md",
+                "new": "zhrmghgmfzz-20170315.md"
+            },
+            {
+                "original": "中华人民共和国民法通则-20090827.md",
+                "new": "zhrmghgmftz-20090827.md"
+            },
+            {
+                "original": "中华人民共和国海商法-19921107.md",
+                "new": "zhrmghghsf-19921107.md"
+            },
+            {
+                "original": "中华人民共和国海商法-20251028.md",
+                "new": "zhrmghghsf-20251028.md"
+            },
+            {
+                "original": "中华人民共和国消费者权益保护法-20131025.md",
+                "new": "zhrmghgxfzqybhf-20131025.md"
+            },
+            {
+                "original": "中华人民共和国涉外民事关系法律适用法-20101028.md",
+                "new": "zhrmghgswmsgxflsyf-20101028.md"
+            },
+            {
+                "original": "中华人民共和国物权法-20070316.md",
+                "new": "zhrmghgwqf-20070316.md"
+            },
+            {
+                "original": "中华人民共和国电子签名法-20150424.md",
+                "new": "zhrmghgdzqmf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国电子签名法-20190423.md",
+                "new": "zhrmghgdzqmf-20190423.md"
+            },
+            {
+                "original": "中华人民共和国票据法-20040828.md",
+                "new": "zhrmghgpjf-20040828.md"
+            },
+            {
+                "original": "中华人民共和国继承法-19850410.md",
+                "new": "zhrmghgjcf-19850410.md"
+            },
+            {
+                "original": "中华人民共和国著作权法-20100226.md",
+                "new": "zhrmghgzzqf-20100226.md"
+            },
+            {
+                "original": "中华人民共和国著作权法-20201111.md",
+                "new": "zhrmghgzzqf-20201111.md"
+            },
+            {
+                "original": "中华人民共和国证券投资基金法-20150424.md",
+                "new": "zhrmghgzqtzjjf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国证券法-20140831.md",
+                "new": "zhrmghgzqf-20140831.md"
+            },
+            {
+                "original": "中华人民共和国证券法-20191228.md",
+                "new": "zhrmghgzqf-20191228.md"
+            }
+        ]
+    },
+    {
+        "directory": "法律/法律/社会法",
+        "table": [
+            {
+                "original": "中华人民共和国公益事业捐赠法-19990628.md",
+                "new": "zhrmghggysyjzf-19990628.md"
+            },
+            {
+                "original": "中华人民共和国军人保险法-20120427.md",
+                "new": "zhrmghgjrbxf-20120427.md"
+            },
+            {
+                "original": "中华人民共和国劳动合同法-20121228.md",
+                "new": "zhrmghgldhtf-20121228.md"
+            },
+            {
+                "original": "中华人民共和国劳动法-20090827.md",
+                "new": "zhrmghgldf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国劳动法-20181229.md",
+                "new": "zhrmghgldf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国危险化学品安全法-20251227.md",
+                "new": "zhrmghgwxhxpaqf-20251227.md"
+            },
+            {
+                "original": "中华人民共和国反家庭暴力法-20151227.md",
+                "new": "zhrmghgfjtblf-20151227.md"
+            },
+            {
+                "original": "中华人民共和国境外非政府组织境内活动管理法-20171104.md",
+                "new": "zhrmghgjwfzfzzjnhdglf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国妇女权益保障法-20050828.md",
+                "new": "zhrmghgfnqybzf-20050828.md"
+            },
+            {
+                "original": "中华人民共和国妇女权益保障法-20181026.md",
+                "new": "zhrmghgfnqybzf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国妇女权益保障法-20221030.md",
+                "new": "zhrmghgfnqybzf-20221030.md"
+            },
+            {
+                "original": "中华人民共和国安全生产法-20140831.md",
+                "new": "zhrmghgaqscf-20140831.md"
+            },
+            {
+                "original": "中华人民共和国安全生产法-20210610.md",
+                "new": "zhrmghgaqscf-20210610.md"
+            },
+            {
+                "original": "中华人民共和国家庭教育促进法-20211023.md",
+                "new": "zhrmghgjtjycjf-20211023.md"
+            },
+            {
+                "original": "中华人民共和国就业促进法-20150424.md",
+                "new": "zhrmghgjycjf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国工会法-20090827.md",
+                "new": "zhrmghgghf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国工会法-20211224.md",
+                "new": "zhrmghgghf-20211224.md"
+            },
+            {
+                "original": "中华人民共和国归侨侨眷权益保护法-20090827.md",
+                "new": "zhrmghggqqjqybhf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国慈善法-20160316.md",
+                "new": "zhrmghgcsf-20160316.md"
+            },
+            {
+                "original": "中华人民共和国慈善法-20231229.md",
+                "new": "zhrmghgcsf-20231229.md"
+            },
+            {
+                "original": "中华人民共和国无障碍环境建设法-20230628.md",
+                "new": "zhrmghgwzahjjsf-20230628.md"
+            },
+            {
+                "original": "中华人民共和国未成年人保护法-20121026.md",
+                "new": "zhrmghgwcnrbhf-20121026.md"
+            },
+            {
+                "original": "中华人民共和国未成年人保护法-20201017.md",
+                "new": "zhrmghgwcnrbhf-20201017.md"
+            },
+            {
+                "original": "中华人民共和国未成年人保护法-20240426.md",
+                "new": "zhrmghgwcnrbhf-20240426.md"
+            },
+            {
+                "original": "中华人民共和国残疾人保障法-20080424.md",
+                "new": "zhrmghgcjrbzf-20080424.md"
+            },
+            {
+                "original": "中华人民共和国残疾人保障法-20181026.md",
+                "new": "zhrmghgcjrbzf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国母婴保健法-20171104.md",
+                "new": "zhrmghgmybjf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国法律援助法-20210820.md",
+                "new": "zhrmghgflyzf-20210820.md"
+            },
+            {
+                "original": "中华人民共和国特种设备安全法-20130629.md",
+                "new": "zhrmghgtzsbaqf-20130629.md"
+            },
+            {
+                "original": "中华人民共和国矿山安全法-20090827.md",
+                "new": "zhrmghgksaqf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国社会保险法-20101028.md",
+                "new": "zhrmghgshbxf-20101028.md"
+            },
+            {
+                "original": "中华人民共和国社会保险法-20181229.md",
+                "new": "zhrmghgshbxf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国科学技术普及法-20020629.md",
+                "new": "zhrmghgkxjspjf-20020629.md"
+            },
+            {
+                "original": "中华人民共和国科学技术普及法-20241225.md",
+                "new": "zhrmghgkxjspjf-20241225.md"
+            },
+            {
+                "original": "中华人民共和国红十字会法-20170224.md",
+                "new": "zhrmghghszhf-20170224.md"
+            },
+            {
+                "original": "中华人民共和国老年人权益保障法-20150424.md",
+                "new": "zhrmghglnrqybzf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国老年人权益保障法-20181229.md",
+                "new": "zhrmghglnrqybzf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国职业病防治法-20171104.md",
+                "new": "zhrmghgzybfzf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国职业病防治法-20181229.md",
+                "new": "zhrmghgzybfzf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国退役军人保障法-20201111.md",
+                "new": "zhrmghgtyjrbzf-20201111.md"
+            },
+            {
+                "original": "中华人民共和国预防未成年人犯罪法-20121026.md",
+                "new": "zhrmghgyfwcnrfzf-20121026.md"
+            },
+            {
+                "original": "中华人民共和国预防未成年人犯罪法-20201226.md",
+                "new": "zhrmghgyfwcnrfzf-20201226.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议-19780524.md",
+                "new": "qgrmdbdhcwwyhgypz-gwygygrtx-tzdzxbf-djy-19780524.md"
+            },
+            {
+                "original": "第五届全国人民代表大会常务委员会关于批准《国务院关于职工探亲待遇的规定》的决议-19810306.md",
+                "new": "dwjqgrmdbdhcwwyhgypz-gwygyzgtqdydgd-djy-19810306.md"
+            }
+        ]
+    },
+    {
+        "directory": "法律/法律/经济法",
+        "table": [
+            {
+                "original": "中华人民共和国个人信息保护法-20210820.md",
+                "new": "zhrmghggrxxbhf-20210820.md"
+            },
+            {
+                "original": "中华人民共和国个人所得税法-20180831.md",
+                "new": "zhrmghggrsdsf-20180831.md"
+            },
+            {
+                "original": "中华人民共和国中国人民银行法-20031227.md",
+                "new": "zhrmghgzgrmyhf-20031227.md"
+            },
+            {
+                "original": "中华人民共和国中小企业促进法-20170901.md",
+                "new": "zhrmghgzxqycjf-20170901.md"
+            },
+            {
+                "original": "中华人民共和国乡村振兴促进法-20210429.md",
+                "new": "zhrmghgxczxcjf-20210429.md"
+            },
+            {
+                "original": "中华人民共和国乡镇企业法-19961029.md",
+                "new": "zhrmghgxzqyf-19961029.md"
+            },
+            {
+                "original": "中华人民共和国产品质量法-20090827.md",
+                "new": "zhrmghgcpzlf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国产品质量法-20181229.md",
+                "new": "zhrmghgcpzlf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国价格法-19971229.md",
+                "new": "zhrmghgjgf-19971229.md"
+            },
+            {
+                "original": "中华人民共和国企业国有资产法-20081028.md",
+                "new": "zhrmghgqygyzcf-20081028.md"
+            },
+            {
+                "original": "中华人民共和国企业所得税法-20170224.md",
+                "new": "zhrmghgqysdsf-20170224.md"
+            },
+            {
+                "original": "中华人民共和国企业所得税法-20181229.md",
+                "new": "zhrmghgqysdsf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国会计法-20171104.md",
+                "new": "zhrmghgkjf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国会计法-20240628.md",
+                "new": "zhrmghgkjf-20240628.md"
+            },
+            {
+                "original": "中华人民共和国公路法-20171104.md",
+                "new": "zhrmghgglf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国关税法-20240426.md",
+                "new": "zhrmghggsf-20240426.md"
+            },
+            {
+                "original": "中华人民共和国农业技术推广法-20120831.md",
+                "new": "zhrmghgnyjstgf-20120831.md"
+            },
+            {
+                "original": "中华人民共和国农业技术推广法-20240426.md",
+                "new": "zhrmghgnyjstgf-20240426.md"
+            },
+            {
+                "original": "中华人民共和国农业机械化促进法-20040625.md",
+                "new": "zhrmghgnyjxhcjf-20040625.md"
+            },
+            {
+                "original": "中华人民共和国农业机械化促进法-20181026.md",
+                "new": "zhrmghgnyjxhcjf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国农业法-20121228.md",
+                "new": "zhrmghgnyf-20121228.md"
+            },
+            {
+                "original": "中华人民共和国农产品质量安全法-20060429.md",
+                "new": "zhrmghgncpzlaqf-20060429.md"
+            },
+            {
+                "original": "中华人民共和国农产品质量安全法-20181026.md",
+                "new": "zhrmghgncpzlaqf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国农产品质量安全法-20220902.md",
+                "new": "zhrmghgncpzlaqf-20220902.md"
+            },
+            {
+                "original": "中华人民共和国出口管制法-20201017.md",
+                "new": "zhrmghgckgzf-20201017.md"
+            },
+            {
+                "original": "中华人民共和国动物防疫法-20150424.md",
+                "new": "zhrmghgdwfyf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国动物防疫法-20210122.md",
+                "new": "zhrmghgdwfyf-20210122.md"
+            },
+            {
+                "original": "中华人民共和国印花税法-20210610.md",
+                "new": "zhrmghgyhsf-20210610.md"
+            },
+            {
+                "original": "中华人民共和国原子能法-20250912.md",
+                "new": "zhrmghgyznf-20250912.md"
+            },
+            {
+                "original": "中华人民共和国反不正当竞争法-20171104.md",
+                "new": "zhrmghgfbzdjzf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国反不正当竞争法-20190423.md",
+                "new": "zhrmghgfbzdjzf-20190423.md"
+            },
+            {
+                "original": "中华人民共和国反不正当竞争法-20250627.md",
+                "new": "zhrmghgfbzdjzf-20250627.md"
+            },
+            {
+                "original": "中华人民共和国反垄断法-20070830.md",
+                "new": "zhrmghgfldf-20070830.md"
+            },
+            {
+                "original": "中华人民共和国反垄断法-20220624.md",
+                "new": "zhrmghgfldf-20220624.md"
+            },
+            {
+                "original": "中华人民共和国反洗钱法-20061031.md",
+                "new": "zhrmghgfxqf-20061031.md"
+            },
+            {
+                "original": "中华人民共和国反洗钱法-20241108.md",
+                "new": "zhrmghgfxqf-20241108.md"
+            },
+            {
+                "original": "中华人民共和国可再生能源法-20091226.md",
+                "new": "zhrmghgkzsnyf-20091226.md"
+            },
+            {
+                "original": "中华人民共和国台湾同胞投资保护法-20160903.md",
+                "new": "zhrmghgtwtbtzbhf-20160903.md"
+            },
+            {
+                "original": "中华人民共和国台湾同胞投资保护法-20191228.md",
+                "new": "zhrmghgtwtbtzbhf-20191228.md"
+            },
+            {
+                "original": "中华人民共和国国家公园法-20250912.md",
+                "new": "zhrmghggjgyf-20250912.md"
+            },
+            {
+                "original": "中华人民共和国城市维护建设税法-20200811.md",
+                "new": "zhrmghgcswhjssf-20200811.md"
+            },
+            {
+                "original": "中华人民共和国增值税法-20241225.md",
+                "new": "zhrmghgzzsf-20241225.md"
+            },
+            {
+                "original": "中华人民共和国外商投资法-20190315.md",
+                "new": "zhrmghgwstzf-20190315.md"
+            },
+            {
+                "original": "中华人民共和国契税法-20200811.md",
+                "new": "zhrmghgqsf-20200811.md"
+            },
+            {
+                "original": "中华人民共和国审计法-20060228.md",
+                "new": "zhrmghgsjf-20060228.md"
+            },
+            {
+                "original": "中华人民共和国审计法-20211023.md",
+                "new": "zhrmghgsjf-20211023.md"
+            },
+            {
+                "original": "中华人民共和国对外贸易法-20161107.md",
+                "new": "zhrmghgdwmyf-20161107.md"
+            },
+            {
+                "original": "中华人民共和国对外贸易法-20221230.md",
+                "new": "zhrmghgdwmyf-20221230.md"
+            },
+            {
+                "original": "中华人民共和国对外贸易法-20251227.md",
+                "new": "zhrmghgdwmyf-20251227.md"
+            },
+            {
+                "original": "中华人民共和国广告法-20150424.md",
+                "new": "zhrmghgggf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国广告法-20181026.md",
+                "new": "zhrmghgggf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国广告法-20210429.md",
+                "new": "zhrmghgggf-20210429.md"
+            },
+            {
+                "original": "中华人民共和国建筑法-20110422.md",
+                "new": "zhrmghgjzf-20110422.md"
+            },
+            {
+                "original": "中华人民共和国建筑法-20190423.md",
+                "new": "zhrmghgjzf-20190423.md"
+            },
+            {
+                "original": "中华人民共和国循环经济促进法-20080829.md",
+                "new": "zhrmghgxhjjcjf-20080829.md"
+            },
+            {
+                "original": "中华人民共和国循环经济促进法-20181026.md",
+                "new": "zhrmghgxhjjcjf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国政府采购法-20140831.md",
+                "new": "zhrmghgzfcgf-20140831.md"
+            },
+            {
+                "original": "中华人民共和国数据安全法-20210610.md",
+                "new": "zhrmghgsjaqf-20210610.md"
+            },
+            {
+                "original": "中华人民共和国旅游法-20161107.md",
+                "new": "zhrmghglyf-20161107.md"
+            },
+            {
+                "original": "中华人民共和国旅游法-20181026.md",
+                "new": "zhrmghglyf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国标准化法-20171104.md",
+                "new": "zhrmghgbzhf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国森林法-20090827.md",
+                "new": "zhrmghgslf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国森林法-20191228.md",
+                "new": "zhrmghgslf-20191228.md"
+            },
+            {
+                "original": "中华人民共和国民用航空法-20171104.md",
+                "new": "zhrmghgmyhkf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国民用航空法-20181229.md",
+                "new": "zhrmghgmyhkf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国民用航空法-20210429.md",
+                "new": "zhrmghgmyhkf-20210429.md"
+            },
+            {
+                "original": "中华人民共和国民用航空法-20251227.md",
+                "new": "zhrmghgmyhkf-20251227.md"
+            },
+            {
+                "original": "中华人民共和国民营经济促进法-20250430.md",
+                "new": "zhrmghgmyjjcjf-20250430.md"
+            },
+            {
+                "original": "中华人民共和国水土保持法-20101225.md",
+                "new": "zhrmghgstbcf-20101225.md"
+            },
+            {
+                "original": "中华人民共和国水法-20160702.md",
+                "new": "zhrmghgsf-20160702.md"
+            },
+            {
+                "original": "中华人民共和国注册会计师法-20140831.md",
+                "new": "zhrmghgzckjsf-20140831.md"
+            },
+            {
+                "original": "中华人民共和国海南自由贸易港法-20210610.md",
+                "new": "zhrmghghnzymygf-20210610.md"
+            },
+            {
+                "original": "中华人民共和国海域使用管理法-20011027.md",
+                "new": "zhrmghghysyglf-20011027.md"
+            },
+            {
+                "original": "中华人民共和国深海海底区域资源勘探开发法-20160226.md",
+                "new": "zhrmghgshhdqyzyktkff-20160226.md"
+            },
+            {
+                "original": "中华人民共和国清洁生产促进法-20120229.md",
+                "new": "zhrmghgqjsccjf-20120229.md"
+            },
+            {
+                "original": "中华人民共和国渔业法-20131228.md",
+                "new": "zhrmghgyyf-20131228.md"
+            },
+            {
+                "original": "中华人民共和国渔业法-20251227.md",
+                "new": "zhrmghgyyf-20251227.md"
+            },
+            {
+                "original": "中华人民共和国港口法-20171104.md",
+                "new": "zhrmghggkf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国港口法-20181229.md",
+                "new": "zhrmghggkf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国湿地保护法-20211224.md",
+                "new": "zhrmghgsdbhf-20211224.md"
+            },
+            {
+                "original": "中华人民共和国烟叶税法-20171227.md",
+                "new": "zhrmghgyysf-20171227.md"
+            },
+            {
+                "original": "中华人民共和国烟草专卖法-20150424.md",
+                "new": "zhrmghgyczmf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国煤炭法-20161107.md",
+                "new": "zhrmghgmtf-20161107.md"
+            },
+            {
+                "original": "中华人民共和国环境保护税法-20161225.md",
+                "new": "zhrmghghjbhsf-20161225.md"
+            },
+            {
+                "original": "中华人民共和国环境保护税法-20181026.md",
+                "new": "zhrmghghjbhsf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国环境保护税法-20251028.md",
+                "new": "zhrmghghjbhsf-20251028.md"
+            },
+            {
+                "original": "中华人民共和国电力法-20150424.md",
+                "new": "zhrmghgdlf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国电力法-20181229.md",
+                "new": "zhrmghgdlf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国电子商务法-20180831.md",
+                "new": "zhrmghgdzswf-20180831.md"
+            },
+            {
+                "original": "中华人民共和国畜牧法-20150424.md",
+                "new": "zhrmghgxmf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国畜牧法-20221030.md",
+                "new": "zhrmghgxmf-20221030.md"
+            },
+            {
+                "original": "中华人民共和国石油天然气管道保护法-20100625.md",
+                "new": "zhrmghgsytrqgdbhf-20100625.md"
+            },
+            {
+                "original": "中华人民共和国矿产资源法-20090827.md",
+                "new": "zhrmghgkczyf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国矿产资源法-20241108.md",
+                "new": "zhrmghgkczyf-20241108.md"
+            },
+            {
+                "original": "中华人民共和国种子法-20151104.md",
+                "new": "zhrmghgzzf-20151104.md"
+            },
+            {
+                "original": "中华人民共和国种子法-20211224.md",
+                "new": "zhrmghgzzf-20211224.md"
+            },
+            {
+                "original": "中华人民共和国税收征收管理法-20150424.md",
+                "new": "zhrmghgsszsglf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国粮食安全保障法-20231229.md",
+                "new": "zhrmghglsaqbzf-20231229.md"
+            },
+            {
+                "original": "中华人民共和国统计法-20090627.md",
+                "new": "zhrmghgtjf-20090627.md"
+            },
+            {
+                "original": "中华人民共和国统计法-20240913.md",
+                "new": "zhrmghgtjf-20240913.md"
+            },
+            {
+                "original": "中华人民共和国网络安全法-20161107.md",
+                "new": "zhrmghgwlaqf-20161107.md"
+            },
+            {
+                "original": "中华人民共和国网络安全法-20251028.md",
+                "new": "zhrmghgwlaqf-20251028.md"
+            },
+            {
+                "original": "中华人民共和国耕地占用税法-20181229.md",
+                "new": "zhrmghggdzysf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国能源法-20241108.md",
+                "new": "zhrmghgnyf-20241108.md"
+            },
+            {
+                "original": "中华人民共和国航道法-20160702.md",
+                "new": "zhrmghghdf-20160702.md"
+            },
+            {
+                "original": "中华人民共和国船舶吨税法-20171227.md",
+                "new": "zhrmghgcbdsf-20171227.md"
+            },
+            {
+                "original": "中华人民共和国船舶吨税法-20181026.md",
+                "new": "zhrmghgcbdsf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国节约能源法-20160702.md",
+                "new": "zhrmghgjynyf-20160702.md"
+            },
+            {
+                "original": "中华人民共和国节约能源法-20181026.md",
+                "new": "zhrmghgjynyf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国草原法-20130629.md",
+                "new": "zhrmghgcyf-20130629.md"
+            },
+            {
+                "original": "中华人民共和国草原法-20210429.md",
+                "new": "zhrmghgcyf-20210429.md"
+            },
+            {
+                "original": "中华人民共和国计量法-20171227.md",
+                "new": "zhrmghgjlf-20171227.md"
+            },
+            {
+                "original": "中华人民共和国计量法-20181026.md",
+                "new": "zhrmghgjlf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国资产评估法-20160702.md",
+                "new": "zhrmghgzcpgf-20160702.md"
+            },
+            {
+                "original": "中华人民共和国资源税法-20190826.md",
+                "new": "zhrmghgzysf-20190826.md"
+            },
+            {
+                "original": "中华人民共和国车船税法-20110225.md",
+                "new": "zhrmghgccsf-20110225.md"
+            },
+            {
+                "original": "中华人民共和国车船税法-20190423.md",
+                "new": "zhrmghgccsf-20190423.md"
+            },
+            {
+                "original": "中华人民共和国车辆购置税法-20181229.md",
+                "new": "zhrmghgclgzsf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国进出口商品检验法-20180427.md",
+                "new": "zhrmghgjckspjyf-20180427.md"
+            },
+            {
+                "original": "中华人民共和国进出口商品检验法-20181229.md",
+                "new": "zhrmghgjckspjyf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国进出口商品检验法-20210429.md",
+                "new": "zhrmghgjckspjyf-20210429.md"
+            },
+            {
+                "original": "中华人民共和国进出境动植物检疫法-20090827.md",
+                "new": "zhrmghgjcjdzwjyf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国邮政法-20150424.md",
+                "new": "zhrmghgyzf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国铁路法-20150424.md",
+                "new": "zhrmghgtlf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国银行业监督管理法-20061031.md",
+                "new": "zhrmghgyhyjdglf-20061031.md"
+            },
+            {
+                "original": "中华人民共和国长江保护法-20201226.md",
+                "new": "zhrmghgcjbhf-20201226.md"
+            },
+            {
+                "original": "中华人民共和国防洪法-20160702.md",
+                "new": "zhrmghgfhf-20160702.md"
+            },
+            {
+                "original": "中华人民共和国预算法-20140831.md",
+                "new": "zhrmghgysf-20140831.md"
+            },
+            {
+                "original": "中华人民共和国预算法-20181229.md",
+                "new": "zhrmghgysf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国黄河保护法-20221030.md",
+                "new": "zhrmghghhbhf-20221030.md"
+            },
+            {
+                "original": "中华人民共和国黑土地保护法-20220624.md",
+                "new": "zhrmghghtdbhf-20220624.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于外商投资企业和外国企业适用增值税、消费税、营业税等税收暂行条例的决定-19931229.md",
+                "new": "qgrmdbdhcwwyhgywstzqyhwgqysyzzs-xfs-yysdsszxtldjd-19931229.md"
+            },
+            {
+                "original": "第五届全国人民代表大会常务委员会关于批准《广东省经济特区条例》的决议-19800826.md",
+                "new": "dwjqgrmdbdhcwwyhgypz-gdsjjtqtl-djy-19800826.md"
+            }
+        ]
+    },
+    {
+        "directory": "法律/法律/行政法",
+        "table": [
+            {
+                "original": "中华人民共和国中医药法-20161225.md",
+                "new": "zhrmghgzyyf-20161225.md"
+            },
+            {
+                "original": "中华人民共和国义务教育法-20150424.md",
+                "new": "zhrmghgywjyf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国义务教育法-20181229.md",
+                "new": "zhrmghgywjyf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国人口与计划生育法-20151227.md",
+                "new": "zhrmghgrkyjhsyf-20151227.md"
+            },
+            {
+                "original": "中华人民共和国人口与计划生育法-20210820.md",
+                "new": "zhrmghgrkyjhsyf-20210820.md"
+            },
+            {
+                "original": "中华人民共和国人民武装警察法-20090827.md",
+                "new": "zhrmghgrmwzjcf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国人民武装警察法-20200620.md",
+                "new": "zhrmghgrmwzjcf-20200620.md"
+            },
+            {
+                "original": "中华人民共和国人民警察法-20121026.md",
+                "new": "zhrmghgrmjcf-20121026.md"
+            },
+            {
+                "original": "中华人民共和国人民警察警衔条例-20090827.md",
+                "new": "zhrmghgrmjcjxtl-20090827.md"
+            },
+            {
+                "original": "中华人民共和国人民防空法-20090827.md",
+                "new": "zhrmghgrmfkf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国传染病防治法-20130629.md",
+                "new": "zhrmghgcrbfzf-20130629.md"
+            },
+            {
+                "original": "中华人民共和国传染病防治法-20250430.md",
+                "new": "zhrmghgcrbfzf-20250430.md"
+            },
+            {
+                "original": "中华人民共和国体育法-20161107.md",
+                "new": "zhrmghgtyf-20161107.md"
+            },
+            {
+                "original": "中华人民共和国体育法-20220624.md",
+                "new": "zhrmghgtyf-20220624.md"
+            },
+            {
+                "original": "中华人民共和国促进科技成果转化法-20150829.md",
+                "new": "zhrmghgcjkjcgzhf-20150829.md"
+            },
+            {
+                "original": "中华人民共和国保守国家秘密法-20100429.md",
+                "new": "zhrmghgbsgjmmf-20100429.md"
+            },
+            {
+                "original": "中华人民共和国保守国家秘密法-20240227.md",
+                "new": "zhrmghgbsgjmmf-20240227.md"
+            },
+            {
+                "original": "中华人民共和国公共图书馆法-20171104.md",
+                "new": "zhrmghgggtsgf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国公共图书馆法-20181026.md",
+                "new": "zhrmghgggtsgf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国公共文化服务保障法-20161225.md",
+                "new": "zhrmghgggwhfwbzf-20161225.md"
+            },
+            {
+                "original": "中华人民共和国公务员法-20170901.md",
+                "new": "zhrmghggwyf-20170901.md"
+            },
+            {
+                "original": "中华人民共和国公务员法-20181229.md",
+                "new": "zhrmghggwyf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国公证法-20170901.md",
+                "new": "zhrmghggzf-20170901.md"
+            },
+            {
+                "original": "中华人民共和国兵役法-20111029.md",
+                "new": "zhrmghgbyf-20111029.md"
+            },
+            {
+                "original": "中华人民共和国兵役法-20210820.md",
+                "new": "zhrmghgbyf-20210820.md"
+            },
+            {
+                "original": "中华人民共和国军事设施保护法-20140627.md",
+                "new": "zhrmghgjsssbhf-20140627.md"
+            },
+            {
+                "original": "中华人民共和国军事设施保护法-20210610.md",
+                "new": "zhrmghgjsssbhf-20210610.md"
+            },
+            {
+                "original": "中华人民共和国军人地位和权益保障法-20210610.md",
+                "new": "zhrmghgjrdwhqybzf-20210610.md"
+            },
+            {
+                "original": "中华人民共和国出境入境管理法-20120630.md",
+                "new": "zhrmghgcjrjglf-20120630.md"
+            },
+            {
+                "original": "中华人民共和国医师法-20210820.md",
+                "new": "zhrmghgysf-20210820.md"
+            },
+            {
+                "original": "中华人民共和国反恐怖主义法-20180427.md",
+                "new": "zhrmghgfkbzyf-20180427.md"
+            },
+            {
+                "original": "中华人民共和国反食品浪费法-20210429.md",
+                "new": "zhrmghgfsplff-20210429.md"
+            },
+            {
+                "original": "中华人民共和国噪声污染防治法-20211224.md",
+                "new": "zhrmghgzswrfzf-20211224.md"
+            },
+            {
+                "original": "中华人民共和国固体废物污染环境防治法-20161107.md",
+                "new": "zhrmghggtfwwrhjfzf-20161107.md"
+            },
+            {
+                "original": "中华人民共和国固体废物污染环境防治法-20200429.md",
+                "new": "zhrmghggtfwwrhjfzf-20200429.md"
+            },
+            {
+                "original": "中华人民共和国国境卫生检疫法-20180427.md",
+                "new": "zhrmghggjwsjyf-20180427.md"
+            },
+            {
+                "original": "中华人民共和国国境卫生检疫法-20240628.md",
+                "new": "zhrmghggjwsjyf-20240628.md"
+            },
+            {
+                "original": "中华人民共和国国家情报法-20180427.md",
+                "new": "zhrmghggjqbf-20180427.md"
+            },
+            {
+                "original": "中华人民共和国国家通用语言文字法-20001031.md",
+                "new": "zhrmghggjtyyywzf-20001031.md"
+            },
+            {
+                "original": "中华人民共和国国防交通法-20160903.md",
+                "new": "zhrmghggfjtf-20160903.md"
+            },
+            {
+                "original": "中华人民共和国国防动员法-20100226.md",
+                "new": "zhrmghggfdyf-20100226.md"
+            },
+            {
+                "original": "中华人民共和国国防教育法-20180427.md",
+                "new": "zhrmghggfjyf-20180427.md"
+            },
+            {
+                "original": "中华人民共和国国防教育法-20240913.md",
+                "new": "zhrmghggfjyf-20240913.md"
+            },
+            {
+                "original": "中华人民共和国土地管理法-20040828.md",
+                "new": "zhrmghgtdglf-20040828.md"
+            },
+            {
+                "original": "中华人民共和国土地管理法-20190826.md",
+                "new": "zhrmghgtdglf-20190826.md"
+            },
+            {
+                "original": "中华人民共和国土壤污染防治法-20180831.md",
+                "new": "zhrmghgtrwrfzf-20180831.md"
+            },
+            {
+                "original": "中华人民共和国城乡规划法-20150424.md",
+                "new": "zhrmghgcxghf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国城乡规划法-20190423.md",
+                "new": "zhrmghgcxghf-20190423.md"
+            },
+            {
+                "original": "中华人民共和国城市房地产管理法-20090827.md",
+                "new": "zhrmghgcsfdcglf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国城市房地产管理法-20190826.md",
+                "new": "zhrmghgcsfdcglf-20190826.md"
+            },
+            {
+                "original": "中华人民共和国基本医疗卫生与健康促进法-20191228.md",
+                "new": "zhrmghgjbylwsyjkcjf-20191228.md"
+            },
+            {
+                "original": "中华人民共和国大气污染防治法-20150829.md",
+                "new": "zhrmghgdqwrfzf-20150829.md"
+            },
+            {
+                "original": "中华人民共和国大气污染防治法-20181026.md",
+                "new": "zhrmghgdqwrfzf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国学位条例-20040828.md",
+                "new": "zhrmghgxwtl-20040828.md"
+            },
+            {
+                "original": "中华人民共和国学位法-20240426.md",
+                "new": "zhrmghgxwf-20240426.md"
+            },
+            {
+                "original": "中华人民共和国学前教育法-20241108.md",
+                "new": "zhrmghgxqjyf-20241108.md"
+            },
+            {
+                "original": "中华人民共和国密码法-20191026.md",
+                "new": "zhrmghgmmf-20191026.md"
+            },
+            {
+                "original": "中华人民共和国居民身份证法-20111029.md",
+                "new": "zhrmghgjmsfzf-20111029.md"
+            },
+            {
+                "original": "中华人民共和国律师法-20170901.md",
+                "new": "zhrmghglsf-20170901.md"
+            },
+            {
+                "original": "中华人民共和国户口登记条例-19580109.md",
+                "new": "zhrmghghkdjtl-19580109.md"
+            },
+            {
+                "original": "中华人民共和国执业医师法-20090827.md",
+                "new": "zhrmghgzyysf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国护照法-20060429.md",
+                "new": "zhrmghghzf-20060429.md"
+            },
+            {
+                "original": "中华人民共和国放射性污染防治法-20030628.md",
+                "new": "zhrmghgfsxwrfzf-20030628.md"
+            },
+            {
+                "original": "中华人民共和国教师法-20090827.md",
+                "new": "zhrmghgjsf-20090827.md"
+            },
+            {
+                "original": "中华人民共和国教育法-20151227.md",
+                "new": "zhrmghgjyf-20151227.md"
+            },
+            {
+                "original": "中华人民共和国教育法-20210429.md",
+                "new": "zhrmghgjyf-20210429.md"
+            },
+            {
+                "original": "中华人民共和国文物保护法-20171104.md",
+                "new": "zhrmghgwwbhf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国文物保护法-20241108.md",
+                "new": "zhrmghgwwbhf-20241108.md"
+            },
+            {
+                "original": "中华人民共和国枪支管理法-20150424.md",
+                "new": "zhrmghgqzglf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国核安全法-20170901.md",
+                "new": "zhrmghghaqf-20170901.md"
+            },
+            {
+                "original": "中华人民共和国档案法-20161107.md",
+                "new": "zhrmghgdaf-20161107.md"
+            },
+            {
+                "original": "中华人民共和国档案法-20200620.md",
+                "new": "zhrmghgdaf-20200620.md"
+            },
+            {
+                "original": "中华人民共和国民办教育促进法-20161107.md",
+                "new": "zhrmghgmbjycjf-20161107.md"
+            },
+            {
+                "original": "中华人民共和国民办教育促进法-20181229.md",
+                "new": "zhrmghgmbjycjf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国气象法-20161107.md",
+                "new": "zhrmghgqxf-20161107.md"
+            },
+            {
+                "original": "中华人民共和国水污染防治法-20170627.md",
+                "new": "zhrmghgswrfzf-20170627.md"
+            },
+            {
+                "original": "中华人民共和国治安管理处罚法-20121026.md",
+                "new": "zhrmghgzaglcff-20121026.md"
+            },
+            {
+                "original": "中华人民共和国治安管理处罚法-20250627.md",
+                "new": "zhrmghgzaglcff-20250627.md"
+            },
+            {
+                "original": "中华人民共和国测绘法-20170427.md",
+                "new": "zhrmghgchf-20170427.md"
+            },
+            {
+                "original": "中华人民共和国海上交通安全法-20161107.md",
+                "new": "zhrmghghsjtaqf-20161107.md"
+            },
+            {
+                "original": "中华人民共和国海上交通安全法-20210429.md",
+                "new": "zhrmghghsjtaqf-20210429.md"
+            },
+            {
+                "original": "中华人民共和国海关关衔条例-20030228.md",
+                "new": "zhrmghghggxtl-20030228.md"
+            },
+            {
+                "original": "中华人民共和国海关法-20171104.md",
+                "new": "zhrmghghgf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国海关法-20210429.md",
+                "new": "zhrmghghgf-20210429.md"
+            },
+            {
+                "original": "中华人民共和国海岛保护法-20091226.md",
+                "new": "zhrmghghdbhf-20091226.md"
+            },
+            {
+                "original": "中华人民共和国海洋环境保护法-20171104.md",
+                "new": "zhrmghghyhjbhf-20171104.md"
+            },
+            {
+                "original": "中华人民共和国海洋环境保护法-20231024.md",
+                "new": "zhrmghghyhjbhf-20231024.md"
+            },
+            {
+                "original": "中华人民共和国海警法-20210122.md",
+                "new": "zhrmghghjf-20210122.md"
+            },
+            {
+                "original": "中华人民共和国消防救援衔条例-20181026.md",
+                "new": "zhrmghgxfjyxtl-20181026.md"
+            },
+            {
+                "original": "中华人民共和国消防法-20081028.md",
+                "new": "zhrmghgxff-20081028.md"
+            },
+            {
+                "original": "中华人民共和国消防法-20190423.md",
+                "new": "zhrmghgxff-20190423.md"
+            },
+            {
+                "original": "中华人民共和国消防法-20210429.md",
+                "new": "zhrmghgxff-20210429.md"
+            },
+            {
+                "original": "中华人民共和国献血法-19971229.md",
+                "new": "zhrmghgxxf-19971229.md"
+            },
+            {
+                "original": "中华人民共和国环境保护法-20140424.md",
+                "new": "zhrmghghjbhf-20140424.md"
+            },
+            {
+                "original": "中华人民共和国环境噪声污染防治法-19961029.md",
+                "new": "zhrmghghjzswrfzf-19961029.md"
+            },
+            {
+                "original": "中华人民共和国环境噪声污染防治法-20181229.md",
+                "new": "zhrmghghjzswrfzf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国环境影响评价法-20160702.md",
+                "new": "zhrmghghjyxpjf-20160702.md"
+            },
+            {
+                "original": "中华人民共和国环境影响评价法-20181229.md",
+                "new": "zhrmghghjyxpjf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国现役军官法-20001228.md",
+                "new": "zhrmghgxyjgf-20001228.md"
+            },
+            {
+                "original": "中华人民共和国生物安全法-20201017.md",
+                "new": "zhrmghgswaqf-20201017.md"
+            },
+            {
+                "original": "中华人民共和国生物安全法-20240426.md",
+                "new": "zhrmghgswaqf-20240426.md"
+            },
+            {
+                "original": "中华人民共和国电影产业促进法-20161107.md",
+                "new": "zhrmghgdycycjf-20161107.md"
+            },
+            {
+                "original": "中华人民共和国疫苗管理法-20190629.md",
+                "new": "zhrmghgymglf-20190629.md"
+            },
+            {
+                "original": "中华人民共和国监狱法-20121026.md",
+                "new": "zhrmghgjyf-20121026.md"
+            },
+            {
+                "original": "中华人民共和国社区矫正法-20191228.md",
+                "new": "zhrmghgsqjzf-20191228.md"
+            },
+            {
+                "original": "中华人民共和国禁毒法-20071229.md",
+                "new": "zhrmghgjdf-20071229.md"
+            },
+            {
+                "original": "中华人民共和国科学技术进步法-20071229.md",
+                "new": "zhrmghgkxjsjbf-20071229.md"
+            },
+            {
+                "original": "中华人民共和国科学技术进步法-20211224.md",
+                "new": "zhrmghgkxjsjbf-20211224.md"
+            },
+            {
+                "original": "中华人民共和国突发事件应对法-20070830.md",
+                "new": "zhrmghgtfsjydf-20070830.md"
+            },
+            {
+                "original": "中华人民共和国突发事件应对法-20240628.md",
+                "new": "zhrmghgtfsjydf-20240628.md"
+            },
+            {
+                "original": "中华人民共和国突发公共卫生事件应对法-20250912.md",
+                "new": "zhrmghgtfggwssjydf-20250912.md"
+            },
+            {
+                "original": "中华人民共和国精神卫生法-20180427.md",
+                "new": "zhrmghgjswsf-20180427.md"
+            },
+            {
+                "original": "中华人民共和国职业教育法-19960515.md",
+                "new": "zhrmghgzyjyf-19960515.md"
+            },
+            {
+                "original": "中华人民共和国职业教育法-20220420.md",
+                "new": "zhrmghgzyjyf-20220420.md"
+            },
+            {
+                "original": "中华人民共和国药品管理法-20150424.md",
+                "new": "zhrmghgypglf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国药品管理法-20190826.md",
+                "new": "zhrmghgypglf-20190826.md"
+            },
+            {
+                "original": "中华人民共和国行政处罚法-20170901.md",
+                "new": "zhrmghgxzcff-20170901.md"
+            },
+            {
+                "original": "中华人民共和国行政处罚法-20210122.md",
+                "new": "zhrmghgxzcff-20210122.md"
+            },
+            {
+                "original": "中华人民共和国行政复议法-20170901.md",
+                "new": "zhrmghgxzfyf-20170901.md"
+            },
+            {
+                "original": "中华人民共和国行政复议法-20230901.md",
+                "new": "zhrmghgxzfyf-20230901.md"
+            },
+            {
+                "original": "中华人民共和国行政强制法-20110630.md",
+                "new": "zhrmghgxzqzf-20110630.md"
+            },
+            {
+                "original": "中华人民共和国行政许可法-20030827.md",
+                "new": "zhrmghgxzxkf-20030827.md"
+            },
+            {
+                "original": "中华人民共和国行政许可法-20190423.md",
+                "new": "zhrmghgxzxkf-20190423.md"
+            },
+            {
+                "original": "中华人民共和国道路交通安全法-20110422.md",
+                "new": "zhrmghgdljtaqf-20110422.md"
+            },
+            {
+                "original": "中华人民共和国道路交通安全法-20210429.md",
+                "new": "zhrmghgdljtaqf-20210429.md"
+            },
+            {
+                "original": "中华人民共和国野生动物保护法-20160702.md",
+                "new": "zhrmghgysdwbhf-20160702.md"
+            },
+            {
+                "original": "中华人民共和国野生动物保护法-20181026.md",
+                "new": "zhrmghgysdwbhf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国野生动物保护法-20221230.md",
+                "new": "zhrmghgysdwbhf-20221230.md"
+            },
+            {
+                "original": "中华人民共和国防沙治沙法-20010831.md",
+                "new": "zhrmghgfszsf-20010831.md"
+            },
+            {
+                "original": "中华人民共和国防沙治沙法-20181026.md",
+                "new": "zhrmghgfszsf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国防震减灾法-20081227.md",
+                "new": "zhrmghgfzjzf-20081227.md"
+            },
+            {
+                "original": "中华人民共和国青藏高原生态保护法-20230426.md",
+                "new": "zhrmghgqzgystbhf-20230426.md"
+            },
+            {
+                "original": "中华人民共和国非物质文化遗产法-20110225.md",
+                "new": "zhrmghgfwzwhycf-20110225.md"
+            },
+            {
+                "original": "中华人民共和国预备役人员法-20221230.md",
+                "new": "zhrmghgybyryf-20221230.md"
+            },
+            {
+                "original": "中华人民共和国预备役军官法-20100828.md",
+                "new": "zhrmghgybyjgf-20100828.md"
+            },
+            {
+                "original": "中华人民共和国食品安全法-20150424.md",
+                "new": "zhrmghgspaqf-20150424.md"
+            },
+            {
+                "original": "中华人民共和国食品安全法-20181229.md",
+                "new": "zhrmghgspaqf-20181229.md"
+            },
+            {
+                "original": "中华人民共和国食品安全法-20210429.md",
+                "new": "zhrmghgspaqf-20210429.md"
+            },
+            {
+                "original": "中华人民共和国食品安全法-20250912.md",
+                "new": "zhrmghgspaqf-20250912.md"
+            },
+            {
+                "original": "中华人民共和国驻外外交人员法-20091031.md",
+                "new": "zhrmghgzwwjryf-20091031.md"
+            },
+            {
+                "original": "中华人民共和国高等教育法-20151227.md",
+                "new": "zhrmghggdjyf-20151227.md"
+            },
+            {
+                "original": "中华人民共和国高等教育法-20181229.md",
+                "new": "zhrmghggdjyf-20181229.md"
+            },
+            {
+                "original": "中国人民解放军军官军衔条例-19940512.md",
+                "new": "zgrmjfjjgjxtl-19940512.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于中国人民解放军现役士兵衔级制度的决定-20220228.md",
+                "new": "qgrmdbdhcwwyhgyzgrmjfjxysbxjzddjd-20220228.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于批准《国务院关于安置老弱病残干部的暂行办法》的决议-19780524.md",
+                "new": "qgrmdbdhcwwyhgypz-gwygyazlrbcgbdzxbf-djy-19780524.md"
+            },
+            {
+                "original": "第五届全国人民代表大会常务委员会关于批准《国务院关于老干部离职休养的暂行规定》的决议-19800929.md",
+                "new": "dwjqgrmdbdhcwwyhgypz-gwygylgblzxydzxgd-djy-19800929.md"
+            }
+        ]
+    },
+    {
+        "directory": "法律/法律/诉讼与非诉讼程序法",
+        "table": [
+            {
+                "original": "中华人民共和国人民调解法-20100828.md",
+                "new": "zhrmghgrmtjf-20100828.md"
+            },
+            {
+                "original": "中华人民共和国仲裁法-20170901.md",
+                "new": "zhrmghgzcf-20170901.md"
+            },
+            {
+                "original": "中华人民共和国仲裁法-20250912.md",
+                "new": "zhrmghgzcf-20250912.md"
+            },
+            {
+                "original": "中华人民共和国农村土地承包经营纠纷调解仲裁法-20090627.md",
+                "new": "zhrmghgnctdcbjyjftjzcf-20090627.md"
+            },
+            {
+                "original": "中华人民共和国刑事诉讼法-20120314.md",
+                "new": "zhrmghgxsssf-20120314.md"
+            },
+            {
+                "original": "中华人民共和国刑事诉讼法-20181026.md",
+                "new": "zhrmghgxsssf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国劳动争议调解仲裁法-20071229.md",
+                "new": "zhrmghgldzytjzcf-20071229.md"
+            },
+            {
+                "original": "中华人民共和国国际刑事司法协助法-20181026.md",
+                "new": "zhrmghggjxssfxzf-20181026.md"
+            },
+            {
+                "original": "中华人民共和国引渡法-20001228.md",
+                "new": "zhrmghgydf-20001228.md"
+            },
+            {
+                "original": "中华人民共和国民事诉讼法-20170627.md",
+                "new": "zhrmghgmsssf-20170627.md"
+            },
+            {
+                "original": "中华人民共和国民事诉讼法-20211224.md",
+                "new": "zhrmghgmsssf-20211224.md"
+            },
+            {
+                "original": "中华人民共和国民事诉讼法-20230901.md",
+                "new": "zhrmghgmsssf-20230901.md"
+            },
+            {
+                "original": "中华人民共和国海事诉讼特别程序法-19991225.md",
+                "new": "zhrmghghssstbcxf-19991225.md"
+            },
+            {
+                "original": "中华人民共和国行政诉讼法-20170627.md",
+                "new": "zhrmghgxzssf-20170627.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于对中华人民共和国缔结或者参加的国际条约所规定的罪行行使刑事管辖权的决定-19870623.md",
+                "new": "qgrmdbdhcwwyhgydzhrmghgdjhzcjdgjtysgddzxxsxsgxqdjd-19870623.md"
+            }
+        ]
+    },
+    {
+        "directory": "法律/法律解释",
+        "table": [
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑事诉讼法》第七十九条第三款的解释-20140424.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxsssf-dqsjtdskdjs-20140424.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑事诉讼法》第二百七十一条第二款的解释-20140424.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxsssf-debqsytdekdjs-20140424.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑事诉讼法》第二百九十二条的解释-20251227.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxsssf-debjsetdjs-20251227.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑事诉讼法》第二百五十四条第五款、第二百五十七条第二款的解释-20140424.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxsssf-debwsstdwk-debwsqtdekdjs-20140424.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑法》有关信用卡规定的解释-20041229.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxf-ygxykgddjs-20041229.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑法》有关出口退税、抵扣税款的其他发票规定的解释-20051229.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxf-ygckts-dkskdqtfpgddjs-20051229.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑法》有关文物的规定适用于具有科学价值的古脊椎动物化石、古人类化石的解释-20051229.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxf-ygwwdgdsyyjykxjzdgjzdwhs-grlhsdjs-20051229.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第一百五十八条、第一百五十九条的解释-20140424.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxf-dybwsbt-dybwsjtdjs-20140424.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第三十条的解释-20140424.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxf-dsstdjs-20140424.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第三百一十三条的解释-20020829.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxf-dsbysstdjs-20020829.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第三百八十四条第一款的解释-20020428.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxf-dsbbsstdykdjs-20020428.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第三百四十一条、第三百一十二条的解释-20140424.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxf-dsbssyt-dsbysetdjs-20140424.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第九十三条第二款的解释-20090827.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxf-djsstdekdjs-20090827.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第九章渎职罪主体适用问题的解释-20021228.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxf-djzdzzztsywtdjs-20021228.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百九十四条第一款的解释-20020428.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxf-debjsstdykdjs-20020428.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百二十八条、第三百四十二条、第四百一十条的解释-20090827.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxf-debesbt-dsbsset-dsbystdjs-20090827.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百六十六条的解释-20140424.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxf-deblsltdjs-20140424.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国国籍法》在澳门特别行政区实施的几个问题的解释-19981229.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghggjf-zamtbxzqssdjgwtdjs-19981229.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国国籍法》在香港特别行政区实施的几个问题的解释-19960515.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghggjf-zxgtbxzqssdjgwtdjs-19960515.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国民法通则》第九十九条第一款、《中华人民共和国婚姻法》第二十二条的解释-20141101.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgmftz-djsjtdyk-zhrmghghyf-desetdjs-20141101.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国澳门特别行政区基本法》附件一第七条和附件二第三条的解释-20111231.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgamtbxzqjbf-fjydqthfjedstdjs-20111231.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》第一百零四条的解释-20161107.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxgtbxzqjbf-dyblstdjs-20161107.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》第五十三条第二款的解释-20050427.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxgtbxzqjbf-dwsstdekdjs-20050427.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》第十三条第一款和第十九条的解释-20110826.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxgtbxzqjbf-dsstdykhdsjtdjs-20110826.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》附件一第七条和附件二第三条的解释-20040406.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxgtbxzqjbf-fjydqthfjedstdjs-20040406.md"
+            },
+            {
+                "original": "全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区维护国家安全法》第十四条和第四十七条的解释-20221230.md",
+                "new": "qgrmdbdhcwwyhgy-zhrmghgxgtbxzqwhgjaqf-dssthdssqtdjs-20221230.md"
+            }
+        ]
+    }
+]
