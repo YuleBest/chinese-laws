@@ -7,6 +7,11 @@
 
 **[开始阅读](laws/README.md)**
 
+## 搜索
+
+- 标题搜索：进入[全库目录](TOC.md)后，按 Ctrl + F 进行搜索
+- 全文搜索：使用 [GitHub 搜索功能](https://github.com/search?q=repo%3AYuleBest%2Fchinese-laws+path%3A%2F%5Elaws%5C%2F%2F&type=code)进行搜索，可使用 `path:[目录路径]` 语法限制范围
+
 ## 数据源
 
 - [国家法律法规数据库](https://flk.npc.gov.cn)
