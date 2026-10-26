@@ -11,7 +11,9 @@ import { execFileSync } from 'node:child_process';
 const steps: { name: string; script: string }[] = [
   { name: '获取列表', script: 'scripts/get-laws-list.ts' },
   { name: '增量更新', script: 'scripts/update-laws.ts' },
+  { name: '重建映射', script: 'scripts/build-mapping.ts' },
   { name: '生成目录', script: 'scripts/build-toc.ts' },
+  { name: '生成索引', script: 'scripts/build-index.ts' },
 ];
 
 for (const step of steps) {
