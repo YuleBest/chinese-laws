@@ -5,12 +5,18 @@
 - 最近更新时间：`[UPDATE_TIME]`
 - 条目数：`[NOL]`
 
-**[开始阅读](laws/README.md)**
+## 阅读
 
-## 搜索
+- **[使用目录开始阅读](laws/README.md)**
+- **标题搜索**：进入[全库目录](TOC.md)后，按 Ctrl + F 进行搜索
+- **全文搜索**：使用 [GitHub 搜索功能](https://github.com/search?q=repo%3AYuleBest%2Fchinese-laws+path%3A%2F%5Elaws%5C%2F%2F&type=code)进行搜索，可使用 `path:[目录路径]` 语法限制范围
 
-- 标题搜索：进入[全库目录](TOC.md)后，按 Ctrl + F 进行搜索
-- 全文搜索：使用 [GitHub 搜索功能](https://github.com/search?q=repo%3AYuleBest%2Fchinese-laws+path%3A%2F%5Elaws%5C%2F%2F&type=code)进行搜索，可使用 `path:[目录路径]` 语法限制范围
+## 你可能感兴趣
+
+| [《宪法》](laws/宪法/zhrmghgxf-2018nxzwb-20180311.md) | [《民法典》](laws/法律/法律/民法商法/zhrmghgmfd-20200528.md) | [《刑法》](laws/法律/法律/刑法/zhrmghgxf-20201226.md) |
+| :---: | :---: | :---: |
+| [《刑事诉讼法》](laws/法律/法律/诉讼与非诉讼程序法/zhrmghgxsssf-20181026.md) | [《民事诉讼法》](laws/法律/法律/诉讼与非诉讼程序法/zhrmghgmsssf-20230901.md) | [《行政诉讼法》](laws/法律/法律/诉讼与非诉讼程序法/zhrmghgxzssf-20170627.md) |
+| [《立法法》](laws/法律/法律/宪法相关法/zhrmghglff-20230313.md) | [《劳动合同法》](laws/法律/法律/社会法/zhrmghgldhtf-20121228.md) | [《行政处罚法》](laws/法律/法律/行政法/zhrmghgxzcff-20210122.md) |
 
 ## 数据源
 
