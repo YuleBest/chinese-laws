@@ -17,6 +17,7 @@ interface DirNode {
 
 const ROOT = process.cwd();
 const START = path.join(ROOT, 'laws');
+const ROOT_TEMPLATE = path.join(ROOT, 'README_template.md');
 const DEFAULT_TEMPLATE = path.join(ROOT, 'README_template_default.md');
 const SKIP_DIRS = new Set<string>(['.git', 'node_modules', 'scripts']);
 const EXCLUDED_FILES = new Set<string>(['README.md', 'README_template.md', 'README_template_default.md']);
@@ -89,13 +90,43 @@ function build(node: DirNode): void {
   const template = fs.readFileSync(templatePath, 'utf8');
   const nowDir = rel || '/';
 
-  let output = template.replaceAll('[NOW_DIR]', nowDir);
-  output = output.includes('[TOC]')
-    ? output.replaceAll('[TOC]', toc)
-    : `${output.trimEnd()}\n\n${toc}\n`;
+  // 模板里没有 [TOC] 就说明不需要目录，不要往底部追加
+  const output = template.replaceAll('[NOW_DIR]', nowDir).replaceAll('[TOC]', toc);
 
   fs.writeFileSync(path.join(node.dir, 'README.md'), output);
   for (const child of node.dirs) build(child);
+}
+
+const countDirs = (node: DirNode): number =>
+  1 + node.dirs.reduce((sum, child) => sum + countDirs(child), 0);
+const countFiles = (node: DirNode): number =>
+  node.files.length + node.dirs.reduce((sum, child) => sum + countFiles(child), 0);
+
+/** 条目数取上游列表的条数，缺失时退回本地文档数 */
+function entryCount(fallback: number): number {
+  const file = path.join(ROOT, 'src/laws-list.json');
+  if (!fs.existsSync(file)) return fallback;
+  const data = JSON.parse(fs.readFileSync(file, 'utf8')) as { total?: number };
+  return data.total ?? fallback;
+}
+
+/** 数据快照时间，取列表文件的抓取时间 */
+function snapshotTime(): string {
+  const file = path.join(ROOT, 'src/laws-list.json');
+  let date = new Date();
+  if (fs.existsSync(file)) {
+    const data = JSON.parse(fs.readFileSync(file, 'utf8')) as { fetchedAt?: string };
+    if (data.fetchedAt) date = new Date(data.fetchedAt);
+  }
+  return new Intl.DateTimeFormat('sv-SE', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+  }).format(date);
 }
 
 const tree = scan(START);
@@ -103,8 +134,13 @@ if (!tree) throw new Error('无法扫描 laws 目录');
 
 build(tree);
 
-const countDirs = (node: DirNode): number =>
-  1 + node.dirs.reduce((sum, child) => sum + countDirs(child), 0);
-const countFiles = (node: DirNode): number =>
-  node.files.length + node.dirs.reduce((sum, child) => sum + countFiles(child), 0);
+// 根目录 README 由 README_template.md 渲染，同样只在有 [TOC] 时才插目录
+if (fs.existsSync(ROOT_TEMPLATE)) {
+  const output = fs
+    .readFileSync(ROOT_TEMPLATE, 'utf8')
+    .replaceAll('[NOL]', String(entryCount(countFiles(tree))))
+    .replaceAll('[UPDATE_TIME]', snapshotTime());
+  fs.writeFileSync(path.join(ROOT, 'README.md'), output);
+}
+
 console.log(`生成 ${countDirs(tree)} 个 README.md，收录 ${countFiles(tree)} 个文档`);
