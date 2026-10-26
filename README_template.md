@@ -4,6 +4,7 @@
 
 - 最近更新时间：`[UPDATE_TIME]`
 - 条目数：`[NOL]`
+- 总字数：`[WORD_COUNT]`
 
 ## 阅读
 
@@ -20,11 +21,8 @@
 
 ## 开发
 
-- Node ≥ 22
-- pnpm
-- pandoc
-- LibreOffice
-- Chromium
+- Node ≥ 22、pnpm、pandoc
+- LibreOffice、Chromium
 
 ```sh
 pnpm install

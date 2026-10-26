@@ -6,6 +6,7 @@ interface FileEntry {
   name: string;
   title: string;
   display: string;
+  words: number;
 }
 
 interface DirNode {
@@ -23,10 +24,12 @@ const SKIP_DIRS = new Set<string>(['.git', 'node_modules', 'scripts']);
 const EXCLUDED_FILES = new Set<string>(['README.md', 'README_template.md', 'README_template_default.md']);
 const collator = new Intl.Collator('zh-CN');
 
-function readTitle(file: string): string {
+/** 返回标题与汉字数（不含标点、空白与 Markdown 标记） */
+function readTitle(file: string): { title: string; words: number } {
   const text = fs.readFileSync(file, 'utf8');
   const match = text.match(/^#\s+(.+?)\s*$/m);
-  return match ? match[1] : path.basename(file, '.md');
+  const han = text.replace(/[^\p{Script=Han}]/gu, '').length;
+  return { title: match ? match[1] : path.basename(file, '.md'), words: han };
 }
 
 function disambiguate(files: FileEntry[]): void {
@@ -52,8 +55,8 @@ function scan(dir: string): DirNode | null {
       const child = scan(path.join(dir, entry.name));
       if (child) dirs.push(child);
     } else if (entry.isFile() && entry.name.endsWith('.md') && !EXCLUDED_FILES.has(entry.name)) {
-      const title = readTitle(path.join(dir, entry.name));
-      files.push({ name: entry.name, title, display: title });
+      const { title, words } = readTitle(path.join(dir, entry.name));
+      files.push({ name: entry.name, title, display: title, words });
     }
   }
 
@@ -101,6 +104,9 @@ const countDirs = (node: DirNode): number =>
   1 + node.dirs.reduce((sum, child) => sum + countDirs(child), 0);
 const countFiles = (node: DirNode): number =>
   node.files.length + node.dirs.reduce((sum, child) => sum + countFiles(child), 0);
+const countWords = (node: DirNode): number =>
+  node.files.reduce((sum, file) => sum + file.words, 0) +
+  node.dirs.reduce((sum, child) => sum + countWords(child), 0);
 
 /** 条目数取上游列表的条数，缺失时退回本地文档数 */
 function entryCount(fallback: number): number {
@@ -139,6 +145,7 @@ if (fs.existsSync(ROOT_TEMPLATE)) {
   const output = fs
     .readFileSync(ROOT_TEMPLATE, 'utf8')
     .replaceAll('[NOL]', String(entryCount(countFiles(tree))))
+    .replaceAll('[WORD_COUNT]', countWords(tree).toLocaleString('en-US'))
     .replaceAll('[UPDATE_TIME]', snapshotTime());
   fs.writeFileSync(path.join(ROOT, 'README.md'), output);
 }

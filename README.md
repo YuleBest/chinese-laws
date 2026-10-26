@@ -4,6 +4,7 @@
 
 - 最近更新时间：`2026-10-27 04:00`
 - 条目数：`2491`
+- 总字数：`10,608,762`
 
 ## 阅读
 
@@ -20,11 +21,8 @@
 
 ## 开发
 
-- Node ≥ 22
-- pnpm
-- pandoc
-- LibreOffice
-- Chromium
+- Node ≥ 22、pnpm、pandoc
+- LibreOffice、Chromium
 
 ```sh
 pnpm install
