@@ -10,7 +10,8 @@
     "build:index": "node scripts/build-index.ts",
     "get:laws-list": "node scripts/get-laws-list.ts",
     "update:laws": "node scripts/update-laws.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "build:status": "node scripts/apply-status.ts"
   },
   "devEngines": {
     "packageManager": {

@@ -9,12 +9,12 @@
 - [全国人民代表大会常务委员会关于《中华人民共和国澳门特别行政区基本法》附件一第七条和附件二第三条的解释](qgrmdbdhcwwyhgy-zhrmghgamtbxzqjbf-fjydqthfjedstdjs-20111231.md)
 - [全国人民代表大会常务委员会关于《中华人民共和国国籍法》在澳门特别行政区实施的几个问题的解释](qgrmdbdhcwwyhgy-zhrmghggjf-zamtbxzqssdjgwtdjs-19981229.md)
 - [全国人民代表大会常务委员会关于《中华人民共和国国籍法》在香港特别行政区实施的几个问题的解释](qgrmdbdhcwwyhgy-zhrmghggjf-zxgtbxzqssdjgwtdjs-19960515.md)
-- [全国人民代表大会常务委员会关于《中华人民共和国民法通则》第九十九条第一款、《中华人民共和国婚姻法》第二十二条的解释](qgrmdbdhcwwyhgy-zhrmghgmftz-djsjtdyk-zhrmghghyf-desetdjs-20141101.md)
+- [全国人民代表大会常务委员会关于《中华人民共和国民法通则》第九十九条第一款、《中华人民共和国婚姻法》第二十二条的解释](qgrmdbdhcwwyhgy-zhrmghgmftz-djsjtdyk-zhrmghghyf-desetdjs-20141101.md) 〔已废止〕
 - [全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》第二十二条第四款和第二十四条第二款第（三）项的解释](qgrmdbdhcwwyhgy-zhrmghgxgtbxzqjbf-desetdskhdesstdekd-sxdjs-19990626.md)
 - [全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》第十三条第一款和第十九条的解释](qgrmdbdhcwwyhgy-zhrmghgxgtbxzqjbf-dsstdykhdsjtdjs-20110826.md)
 - [全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》第五十三条第二款的解释](qgrmdbdhcwwyhgy-zhrmghgxgtbxzqjbf-dwsstdekdjs-20050427.md)
 - [全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》第一百零四条的解释](qgrmdbdhcwwyhgy-zhrmghgxgtbxzqjbf-dyblstdjs-20161107.md)
-- [全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》附件一第七条和附件二第三条的解释](qgrmdbdhcwwyhgy-zhrmghgxgtbxzqjbf-fjydqthfjedstdjs-20040406.md)
+- [全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》附件一第七条和附件二第三条的解释](qgrmdbdhcwwyhgy-zhrmghgxgtbxzqjbf-fjydqthfjedstdjs-20040406.md) 〔已废止〕
 - [全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区维护国家安全法》第十四条和第四十七条的解释](qgrmdbdhcwwyhgy-zhrmghgxgtbxzqwhgjaqf-dssthdssqtdjs-20221230.md)
 - [全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百二十八条、第三百四十二条、第四百一十条的解释](qgrmdbdhcwwyhgy-zhrmghgxf-debesbt-dsbsset-dsbystdjs-20090827.md)
 - [全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百九十四条第一款的解释](qgrmdbdhcwwyhgy-zhrmghgxf-debjsstdykdjs-20020428.md)

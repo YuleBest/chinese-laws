@@ -1,12 +1,15 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { statusMark, loadStatusLookup } from './status.ts';
 
 interface FileEntry {
   name: string;
   title: string;
   display: string;
   words: number;
+  sxx: number | null;
+  mark: string;
 }
 
 interface DirNode {
@@ -23,12 +26,15 @@ const DEFAULT_TEMPLATE = path.join(ROOT, 'README_template_default.md');
 const SKIP_DIRS = new Set<string>(['.git', 'node_modules', 'scripts']);
 const EXCLUDED_FILES = new Set<string>(['README.md', 'README_template.md', 'README_template_default.md']);
 const collator = new Intl.Collator('zh-CN');
+const statusOf = loadStatusLookup(ROOT);
 
 /** 返回标题与汉字数（不含标点、空白与 Markdown 标记） */
 function readTitle(file: string): { title: string; words: number } {
   const text = fs.readFileSync(file, 'utf8');
   const match = text.match(/^#\s+(.+?)\s*$/m);
-  const han = text.replace(/[^\p{Script=Han}]/gu, '').length;
+  // 统计口径只算法规正文，排除我们额外插入的时效性标记行
+  const body = text.replace(/^>\s*时效性：.*$/gm, '');
+  const han = body.replace(/[^\p{Script=Han}]/gu, '').length;
   return { title: match ? match[1] : path.basename(file, '.md'), words: han };
 }
 
@@ -56,13 +62,16 @@ function scan(dir: string): DirNode | null {
       if (child) dirs.push(child);
     } else if (entry.isFile() && entry.name.endsWith('.md') && !EXCLUDED_FILES.has(entry.name)) {
       const { title, words } = readTitle(path.join(dir, entry.name));
-      files.push({ name: entry.name, title, display: title, words });
+      const date = entry.name.match(/-(\d{8})\.md$/)?.[1] ?? '';
+      files.push({ name: entry.name, title, display: title, words, sxx: statusOf(title, date), mark: '' });
     }
   }
 
   if (dir !== START && dirs.length === 0 && files.length === 0) return null;
 
   disambiguate(files);
+  // 时效性标记放在链接外，避免被同名区分逻辑吃掉
+  for (const file of files) file.mark = statusMark(file.sxx);
   dirs.sort((a, b) => collator.compare(a.name, b.name));
   files.sort((a, b) => collator.compare(a.display, b.display) || collator.compare(a.name, b.name));
 
@@ -79,7 +88,7 @@ function renderToc(node: DirNode): string[] {
   }
 
   for (const file of node.files) {
-    lines.push(`- [${escapeText(file.display)}](${file.name})`);
+    lines.push(`- [${escapeText(file.display)}](${file.name})${file.mark ? ` ${file.mark}` : ''}`);
   }
 
   return lines;

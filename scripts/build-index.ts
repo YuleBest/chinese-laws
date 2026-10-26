@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { statusMark, loadStatusLookup } from './status.ts';
 
 /**
  * 生成仓库根目录的 TOC.md：整棵 laws/ 的中文标题索引，链接相对仓库根目录。
@@ -13,11 +14,13 @@ const ROOT = process.cwd();
 const START = path.join(ROOT, 'laws');
 const OUTPUT = path.join(ROOT, 'TOC.md');
 const collator = new Intl.Collator('zh-CN');
+const statusOf = loadStatusLookup(ROOT);
 
 interface Entry {
   title: string;
   link: string;
   date: string;
+  sxx: number | null;
 }
 
 interface DirNode {
@@ -68,6 +71,7 @@ function scan(dir: string): DirNode {
       title,
       link: path.relative(ROOT, full).split(path.sep).join('/').replace(/ /g, '%20'),
       date,
+      sxx: statusOf(title, date),
     });
   }
 
@@ -94,7 +98,9 @@ function render(node: DirNode, lines: string[]): void {
   if (node.files.length > 0) {
     const rel = path.relative(START, node.dir).split(path.sep).join(' / ');
     lines.push(`## ${escapeText(rel || 'laws')}（${node.files.length}）`, '');
-    for (const file of node.files) lines.push(`- [${escapeText(file.title)}](${file.link})`);
+    for (const file of node.files) {
+    lines.push(`- [${escapeText(file.title)}](${file.link}) ${statusMark(file.sxx)}`.trimEnd());
+  }
     lines.push('');
   }
   for (const child of node.dirs) render(child, lines);

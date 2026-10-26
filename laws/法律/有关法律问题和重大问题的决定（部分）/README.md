@@ -53,10 +53,10 @@
 - [全国人民代表大会常务委员会关于积极应对气候变化的决议](qgrmdbdhcwwyhgyjjydqhbhdjy-20090827.md)
 - [全国人民代表大会常务委员会关于加强法律解释工作的决议](qgrmdbdhcwwyhgyjqfljsgzdjy-19810610.md)
 - [全国人民代表大会常务委员会关于加强国有资产管理情况监督的决定](qgrmdbdhcwwyhgyjqgyzcglqkjddjd-00000000.md)
-- [全国人民代表大会常务委员会关于加强经济工作监督的决定（2000-03-01）](qgrmdbdhcwwyhgyjqjjgzjddjd-20000301.md)
+- [全国人民代表大会常务委员会关于加强经济工作监督的决定（2000-03-01）](qgrmdbdhcwwyhgyjqjjgzjddjd-20000301.md) 〔已修改〕
 - [全国人民代表大会常务委员会关于加强经济工作监督的决定（2021-12-24）](qgrmdbdhcwwyhgyjqjjgzjddjd-20211224.md)
 - [全国人民代表大会常务委员会关于加强网络信息保护的决定](qgrmdbdhcwwyhgyjqwlxxbhdjd-20121228.md)
-- [全国人民代表大会常务委员会关于加强中央预算审查监督的决定（1999-12-25）](qgrmdbdhcwwyhgyjqzyysscjddjd-19991225.md)
+- [全国人民代表大会常务委员会关于加强中央预算审查监督的决定（1999-12-25）](qgrmdbdhcwwyhgyjqzyysscjddjd-19991225.md) 〔已修改〕
 - [全国人民代表大会常务委员会关于加强中央预算审查监督的决定（2021-04-29）](qgrmdbdhcwwyhgyjqzyysscjddjd-20210429.md)
 - [全国人民代表大会常务委员会关于教师节的决定](qgrmdbdhcwwyhgyjsjdjd-00000000.md)
 - [全国人民代表大会常务委员会关于军队战时调整适用《中华人民共和国刑事诉讼法》部分规定的决定](qgrmdbdhcwwyhgyjdzsdzsy-zhrmghgxsssf-bfgddjd-20230224.md)

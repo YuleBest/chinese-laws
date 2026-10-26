@@ -207,7 +207,10 @@ async function fetchHistory(law: LawRow): Promise<{ bbbs: string; gbrq: string |
 
 interface LawState {
   updatedAt: string;
-  laws: Record<string, { bbbs: string; gbrq: string | null; history: { bbbs: string; gbrq: string | null }[] }>;
+  laws: Record<
+    string,
+    { bbbs: string; gbrq: string | null; sxx?: number | null; history: { bbbs: string; gbrq: string | null }[] }
+  >;
 }
 
 function loadState(): LawState {
@@ -338,7 +341,12 @@ async function main(): Promise<void> {
       let historyNote = '';
       try {
         const history = await fetchHistory(item.law);
-        state.laws[item.law.title] = { bbbs: item.law.bbbs, gbrq: item.law.gbrq, history };
+        state.laws[item.law.title] = {
+          bbbs: item.law.bbbs,
+          gbrq: item.law.gbrq,
+          sxx: (item.law as { sxx?: number | null }).sxx ?? null,
+          history,
+        };
         historyNote = `  历史沿革 ${history.length} 版`;
       } catch (error) {
         historyNote = `  历史沿革获取失败：${error instanceof Error ? error.message : error}`;

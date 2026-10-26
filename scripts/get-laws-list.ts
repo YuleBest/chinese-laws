@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
+import { STATUS_LABEL } from './status.ts';
 import { WafBrowser } from './waf-browser.ts';
 import path from 'node:path';
 
@@ -218,6 +219,36 @@ async function main(): Promise<void> {
     total: laws.length,
     laws,
   };
+
+  // 与上一份快照对比，把新增和时效性变化单独列出来
+  const previous = fs.existsSync(OUTPUT)
+    ? (JSON.parse(fs.readFileSync(OUTPUT, 'utf8')) as {
+        laws: { bbbs: string; title: string; gbrq: string | null; sxx: number | null }[];
+      })
+    : null;
+  if (previous) {
+    const before = new Map(previous.laws.map((law) => [law.bbbs, law]));
+    const added = laws.filter((law) => !before.has(law.bbbs));
+    const changed = laws.filter((law) => {
+      const old = before.get(law.bbbs);
+      return old && old.sxx !== law.sxx;
+    });
+
+    if (changed.length > 0) {
+      console.log(`\n时效性变化 ${changed.length} 条：`);
+      for (const law of changed) {
+        const old = before.get(law.bbbs)!;
+        console.log(
+          `  ${law.title}（${law.gbrq ?? '无日期'}）${STATUS_LABEL[old.sxx ?? 0] ?? '未标注'} → ${STATUS_LABEL[law.sxx ?? 0] ?? '未标注'}`,
+        );
+      }
+    }
+    if (added.length > 0) {
+      console.log(`\n新增 ${added.length} 条：`);
+      for (const law of added.slice(0, 10)) console.log(`  ${law.title}（${law.gbrq ?? '无日期'}）`);
+      if (added.length > 10) console.log(`  …其余 ${added.length - 10} 条`);
+    }
+  }
 
   fs.mkdirSync(path.dirname(OUTPUT), { recursive: true });
   fs.writeFileSync(OUTPUT, `${JSON.stringify(payload, null, 2)}\n`);

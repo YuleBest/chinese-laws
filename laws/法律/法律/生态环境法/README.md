@@ -6,5 +6,5 @@
 
 ---
 
-- [中华人民共和国耕地保护和质量提升法](zhrmghggdbhhzltsf-20260828.md)
+- [中华人民共和国耕地保护和质量提升法](zhrmghggdbhhzltsf-20260828.md) 〔尚未生效〕
 - [中华人民共和国生态环境法典](zhrmghgsthjfd-20260312.md)
