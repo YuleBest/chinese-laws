@@ -94,14 +94,20 @@ function countTitles(node: DirNode, counts: Map<string, number>): void {
 
 const escapeText = (text: string): string => text.replace(/([\\[\]])/g, '\\$1');
 
+function countLaws(node: DirNode): number {
+  return node.files.length + node.dirs.reduce((sum, child) => sum + countLaws(child), 0);
+}
+
 function render(node: DirNode, lines: string[]): void {
-  if (node.files.length > 0) {
+  // 每一级目录都标出收录数量（含子目录）
+  if (node.files.length > 0 || node.dirs.length > 0) {
     const rel = path.relative(START, node.dir).split(path.sep).join(' / ');
-    lines.push(`## ${escapeText(rel || 'laws')}（${node.files.length}）`, '');
+    // 根目录的总数已在开头说明，不再单列一节
+    if (node.dir !== START) lines.push(`## ${escapeText(rel)}（${countLaws(node)}）`, '');
     for (const file of node.files) {
-    lines.push(`- [${escapeText(file.title)}](${file.link}) ${statusMark(file.sxx)}`.trimEnd());
-  }
-    lines.push('');
+      lines.push(`- [${escapeText(file.title)}](${file.link}) ${statusMark(file.sxx)}`.trimEnd());
+    }
+    if (node.files.length > 0) lines.push('');
   }
   for (const child of node.dirs) render(child, lines);
 }

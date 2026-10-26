@@ -84,7 +84,8 @@ function renderToc(node: DirNode): string[] {
   const lines: string[] = [];
 
   for (const child of node.dirs) {
-    lines.push(`- [${escapeText(child.name)}](${child.name}/README.md)`);
+    // 目录后面标出该目录（含子目录）收录的法律数量
+    lines.push(`- [${escapeText(child.name)}](${child.name}/README.md)（${countFiles(child)}）`);
   }
 
   for (const file of node.files) {
